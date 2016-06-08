@@ -66,6 +66,7 @@ Shipping and Distribution
 *   **Edna Bonacich, Jake B. Wilson, _Getting the Goods: Ports, Labor, and the Logistics Revolution_ (Ithaca: Cornell University Press, 2008).**
     "Edna Bonacich and Jake B. Wilson look at the ports of Los Angeles and Long Beach to examine the impact of the logistics on workers in distribution. Built around the invention of shipping containers and communications technology, the logistics 'revolution' has enabled retailers like Walmart and Target to sell cheap consumer products made using low-wage labor in developing countries. Shipped through an efficient, low-cost, intermodal freight system, containers move from factories in Asia to distribution centers across the United States without ever being opened. Bonacich and Wilson follow these flows, exploring the importers, container shipping companies, the ports, railroad and trucking companies, and warehouses."
 
+>*  Jesse LeCavalier, _The Rule of Logistics: Walmart and the Architecture of Fulfillment_ (Minneapolis: Minnesota Press, 2016).
 >*  Joshua Davis, "[High Tech Cowboys of the Deep Seas](http://www.wired.com/2008/02/ff-seacowboys/)," _Wired_ (February 25, 2008).
 >*  Jacob Hodes, "[Whitewood under Siege](http://cabinetmagazine.org/issues/52/hodes.php)," _Cabinet_ 53 (Winter 2013/14).
 
@@ -165,8 +166,9 @@ Computational Production
 
 Infrastructures
 ===============
->*  Lewis Mumford, Technics and Civilization (Chicago: University of Chicago Press, 2010 [1934]).
 >*  Shannon Mattern, "[Infrastructural Tourism](https://placesjournal.org/article/infrastructural-tourism/)," _Places Journal_ (July 2013).
+>*  Keller Easterling, _Organization Space: Landscapes, Highways, and Houses in America_ (Cambridge: MIT Press, 1999); _Enduring Innocence: Global Architecture and its Political Masquerades_ (Cambridge: MIT Press, 2005); and _Extrastatecraft: The Power of Infrastructure Space_ (New York: Verso, 2014).
+>*  Lewis Mumford, Technics and Civilization (Chicago: University of Chicago Press, 2010 [1934]).
 >*  Brett Neilson and Ned Rossiter, "[The Logistical City](http://nedrossiter.org/?p=270)," in _Transit Labour: Circuits, Regions, Borders_ no. 3 (August 2011)
 
 Activism and Resistance
