@@ -60,6 +60,7 @@ Shipping and Distribution
 
 >*  Jesse LeCavalier, _The Rule of Logistics: Walmart and the Architecture of Fulfillment_ (Minneapolis: Minnesota Press, 2016).
 >*  Joshua Davis, "[High Tech Cowboys of the Deep Seas](http://www.wired.com/2008/02/ff-seacowboys/)," _Wired_ (February 25, 2008).
+>*  Rose George, _Ninety Percent of Everything: Inside Shipping, the Invisible Industry That Puts Clothes on Your Back, Gas in Your Car, and Food on Your Plate_ (New York: Metropolitan Books, 2013).
 >*  Jacob Hodes, "[Whitewood under Siege](http://cabinetmagazine.org/issues/52/hodes.php)," _Cabinet_ 53 (Winter 2013/14).
 
 The Box
@@ -256,8 +257,6 @@ Other Materials and Cases
 =========================
 >*  R. Buckminster Fuller, "The World Game: Integrative Resource Utilization Planning Tool," _World Resource Inventory_ (Carbondale: Southern Illinois University, 1971). 
 >*  Peter Stallybrass, "Marx's Coat" in Patria Spyer (ed) _Border Fetishisms: Material Objects in Unstable Spaces_ (London: Routledge, 1997). 
-
-
 >*  Damon Tabor, "[The Ivory Highway](http://www.mensjournal.com/magazine/the-ivory-highway-20140213)," _Men's Journal_ (February 13, 2014).
 >*  Svati Kirsten Narula "[Crush and Burn: A History of the Global Crackdown on Ivory](http://www.theatlantic.com/international/archive/2014/01/crush-and-burn-a-history-of-the-global-crackdown-on-ivory/283310/)," _The Atlantic_ (January 27, 2014).
 >*  Martha Chaiklin, "Ivory in World History: Early Modern Trade in Context," _History Compass_ 8, no. 6 (June 2010): 530-542.
