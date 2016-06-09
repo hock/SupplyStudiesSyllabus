@@ -95,6 +95,7 @@ Critical Perspectives
 >*  Alberto Toscano and Jeff Kinkle, Cartographies of the Absolute (London: Zero Books, 2015).
 >*  Anna Tsing, "Supply Chains and the Human Condition," _Rethinking Marxism: A Journal of Economics, Culture and Society_ 21, no. 2 (2009).
 >*  Jasper Bernes, "[Logistics, Counterlogistics, and the Communist Propspect](https://endnotes.org.uk/en/jasper-bernes-logistics-counterlogistics-and-the-communist-prospect)," _Endnotes 3: Gender, Race, Class and Other Misfortunes_ (September 2013).
+>*  Stefano Harney and Fred Moten, "Fantasy in the Hold" in _The Undercommons: Fugitive Planning & Black Study_ (Brooklyn: Autonomedia, 2013).
 >*  Brett Neilson, "[Beyond Kulturkritik: Along the Supply Chain of Contemporary Capitalism](http://www.cultureunbound.ep.liu.se/v6/a04/cu14v6a04.pdf)," _Culture Unbound_ 6 (2014): 77–93; and "Five Theses on Understanding Logistics as Power" _Distinktion: Scandinavian Journal of Social Theory_ 13, no. 3 (December 2012) 322–339.
 >*  Martin Heidegger, _The Question Concerning Technology_ (New York: Garland, 1977).
 
@@ -190,13 +191,16 @@ Digital Supply Chains
 >*  Rosie Cima, "[The Rise and Fall of .Ly](http://priceonomics.com/the-rise-and-fall-of-ly/)," Priceonomics (October 23, 2015).
 >*  Olivia Solon, "[Activists Target Yahoo Over Links to Ivory Trade](http://www.wired.com/2016/01/activists-target-yahoo-over-links-to-ivory-trade/)," _Wired_ (January 25, 2016).
 
-Infrastructures
-===============
+Infrastructures & Spaces
+========================
 >*  Shannon Mattern, "[Infrastructural Tourism](https://placesjournal.org/article/infrastructural-tourism/)," _Places Journal_ (July 2013).
 >*  Nicole Starosielski, "[Signal Tracks](http://median.newmediacaucus.org/art-infrastructures-hardware/signal-tracks/),” _Media-N: Journal of the New Media Caucus_ 10, no. 1 (Spring 2014).
 >*  Keller Easterling, _Organization Space: Landscapes, Highways, and Houses in America_ (Cambridge: MIT Press, 1999); _Enduring Innocence: Global Architecture and its Political Masquerades_ (Cambridge: MIT Press, 2005); and _Extrastatecraft: The Power of Infrastructure Space_ (New York: Verso, 2014).
 >*  Lewis Mumford, Technics and Civilization (Chicago: University of Chicago Press, 2010 [1934]).
 >*  Brett Neilson and Ned Rossiter, "[The Logistical City](http://nedrossiter.org/?p=270)," in _Transit Labour: Circuits, Regions, Borders_ no. 3 (August 2011)
+>*  Dara Orenstein, "Foreign-­Trade­ Zones­ and ­the ­Cultural ­Logic of ­Frictionless ­Production," _Radical History Review_ 109 (Winter 2011).
+>*  "[The FTZ as Device]"(http://southwestcorridornorthwestpassage.org/the-ftz-as-device/), _Southwest Corridor Northwest Passage_ (2014)
+>*  Rozalinda Borcila, "[Riding the Zone](http://midwestcompass.org/wp-content/uploads/2013/10/Borcila_Riding-the-zone.pdf)," _Deep Routes: The Midwest in all Directions_ (2015).
 
 Deviant Globalization
 =====================
@@ -271,12 +275,23 @@ Logistical Games
 *   **[_Cargonauts_](http://cargonauts.net/) (2015-)**
     "Part of the _Logistical Worlds_ Project, Cargonauts envisions a logistical world of infrastructure, of transport economies, of zones and concessions, of nocturnal possibilities for sabotage and revenge."
 
-Syllabi & Conferences
-=====================
+Syllabi and Conferences
+=======================
 *   **"[The Global Social Factory & Supply Chains](http://thepublicschool.org/node/31394)" at _The Public School_ (2012).**
 *   **Benjamin Noys, Accelerationism and Aesthetics Seminar, "Cold Logics, Cold Logistics," _[Konstfack CuratorLab](https://www.konstfack.se/en/News/Calendar/2016/Higher-seminar-with-theorist-and-critic-Benjamin-Noys/)_ (2016).**
 *   **"[Turbulent Circulation / Toward a Critical Logistics](https://turbulentcirculation.wordpress.com/)," University of Toronto (October 9-11, 2015).
 *   **Aylwyn Mae Walsh and Michael Shane Boyle (organizers), "[The Arts of Logistics](http://www.artsoflogistics.com/)," Queen Mary University of London (June 3-4, 2016).
+
+Projects and Groups
+===================
+*  **[Empire Logistics](http://www.empirelogistics.org/)**
+	"Empire Logistics is an interactive mapping project begun in 2009. As a collaborative initiative, Empire Logistics maps the global supply chain through research that articulates the infrastructure and 'externalized costs'—human, economic, social and environmental—of the international flow of things."
+*  **[Center for Land Use Interpretation](http://clui.org/)**
+   	"The Center for Land Use Interpretation is a research and education organization interested in understanding the nature and extent of human interaction with the surface of the earth, and in finding new meanings in the intentional and incidental forms that we individually and collectively create. We believe that the manmade landscape is a cultural inscription, that can be read to better understand who we are, and what we are doing."
+*   **[Warehouse Workers for Justice](http://www.warehouseworker.org/)**
+	"Warehouse Workers for Justice is a worker center founded in 2009 to win stable, living wage jobs with dignity for the hundreds of thousands of workers in Illinois' logistics and distribution industry. We provide workshops so warehouse workers can educate themselves about workplace rights, unite warehouse workers to defend their rights on the job, build community support for the struggles of warehouse workers and fight for policy changes to improve the lives of warehouse workers and members of our communities."
+*	**[Transit-labour](http://transitlabour.asia/home/)** (X)
+	"Transit-labour investigates changing patterns of labour and mobility in the whirlwind of Asian capitalist transformation. Mindful of the view of Asia as the world's factory, this three year research project examines the role of creativity, invention and knowledge production in the new economic order being forged from the region's capitalist centres. Particular attention is given to changing relations of culture and economy in this transition and their entanglement with the production of new subjectivities and modalities of labour."
 
 Other Materials and Cases
 =========================
