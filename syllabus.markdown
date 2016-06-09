@@ -45,22 +45,25 @@ Production and Assembly
 >*  Seth Perlow, "On production for digital culture: iPhone Girl, electronics assembly, and the material forms of aspiration," _Convergence_ 17, no. 3 (2011): 245-269.
 >*  Pun Ngai, _Made in China: Women Factory Workers in a Global Workplace_ (Durham: Duke University Press, 2005); with Jenny Chan, "[Suicide as Protest for the New Generation of Chinese Migrant Workers: Foxconn, Global Capital, and the State](http://apjjf.org/-Jenny-Chan/3408/article.html)," _The Asia-Pacific Journal_ 8, iss. 37, no. 2 (September 13, 2010); and with Mark Selden, "The politics of global production: Apple, Foxconn and China's new working class," _New Technology, Work and Employment_ 28, no. 2 (July 2013): 100–115.
 >*  Steven Mckay, _Satanic Mills or Silicon Islands?: The Politics of High-Tech Production in the Philippines_ (Ithaca: ILR Press, 2006).
->*  Hairong Yan, _New Masters, New Servants: Migration, Development, and Women Workers in China_ (Durham: Duke University Press, 2008).
 
-Foxconn Focus
--------------
+Foxconn and Factories
+---------------------
 >*  Cam Simpson, "[An iPhone Tester Caught in Apple's Supply Chain](http://www.bloomberg.com/news/articles/2013-11-07/an-iphone-tester-caught-in-apples-supply-chain)," _Bloomberg_ (November 7, 2013).
 >*  "[The poetry and brief life of a Foxconn worker: Xu Lizhi (1990-2014)](https://libcom.org/blog/xulizhi-foxconn-suicide-poetry)," Nào (闹) Blog (2014).
 >*  Charles Duhigg and David Barboz, "[In China, Human Costs are Built Into an iPad](http://www.nytimes.com/2012/01/26/business/ieconomy-apples-ipad-and-the-human-costs-for-workers-in-china.html)," iEconomy Series, _New York Times_ (January 25, 2012).
 
 Migration and Mobility
 ----------------------
+>*  Hairong Yan, _New Masters, New Servants: Migration, Development, and Women Workers in China_ (Durham: Duke University Press, 2008).
 >*  T. J. Demos, _The Migrant Image: The Art and Politics of Documentary during Global Crisis_ (Durham: Duke University Press, 2013). // via [Jason LaRiviere](https://twitter.com/immanenceftw).
+>*  Kwame Appiah, "[The Case for Contamination](http://www.nytimes.com/2006/01/01/magazine/01cosmopolitan.html)," _New York Times Magazine_ (January 1, 2006).
 
-Lean Production
----------------
+Modes of Production
+-------------------
 >*  James P. Womack, Daniel T. Jones, Daniel Roos, _The Machine That Changed the World: The Story of Lean Production_ (New York: Free Press, 2007).
 >*  Kim Moody, "The Rise and Limits of Lean Production," in _Workers in a Lean World_ (New York: Verso, 1997): 85-113.
+>*  Brian Holmes, "[Do Containers Dream of Electric People: The Social Form of Just-in-time Production](https://brianholmes.wordpress.com/2011/08/19/do-containers-dream-of-electric-people/)," _Open_ no. 21 (2011).
+>*  Brian Ashton, "[The Factory Without Walls](http://www.metamute.org/editorial/articles/factory-without-walls)," _Mute_ (September 2006).
 
 Shipping and Distribution
 =========================
@@ -92,14 +95,14 @@ Critical Perspectives
 >*  Alberto Toscano and Jeff Kinkle, Cartographies of the Absolute (London: Zero Books, 2015).
 >*  Anna Tsing, "Supply Chains and the Human Condition," _Rethinking Marxism: A Journal of Economics, Culture and Society_ 21, no. 2 (2009).
 >*  Jasper Bernes, "[Logistics, Counterlogistics, and the Communist Propspect](https://endnotes.org.uk/en/jasper-bernes-logistics-counterlogistics-and-the-communist-prospect)," _Endnotes 3: Gender, Race, Class and Other Misfortunes_ (September 2013).
->*  Brian Ashton, "[The Factory Without Walls](http://www.metamute.org/editorial/articles/factory-without-walls)," _Mute_ (September 2006).
->*  Brian Holmes, "[Do Containers Dream of Electric People: The Social Form of Just-in-time Production](https://brianholmes.wordpress.com/2011/08/19/do-containers-dream-of-electric-people/)," _Open_ no. 21 (2011).
->*  Kwame Appiah, "[The Case for Contamination](http://www.nytimes.com/2006/01/01/magazine/01cosmopolitan.html)," _New York Times Magazine_ (January 1, 2006).
+>*  Brett Neilson, "[Beyond Kulturkritik: Along the Supply Chain of Contemporary Capitalism](http://www.cultureunbound.ep.liu.se/v6/a04/cu14v6a04.pdf)," _Culture Unbound_ 6 (2014): 77–93; and "Five Theses on Understanding Logistics as Power" _Distinktion: Scandinavian Journal of Social Theory_ 13, no. 3 (December 2012) 322–339.
 >*  Martin Heidegger, _The Question Concerning Technology_ (New York: Garland, 1977).
 
 Activism and Resistance
 -----------------------
 >*  Charmaine Chua, "[Logistics, Capitalist Circulation, Chokepoints](https://thedisorderofthings.com/2014/09/09/logistics-capitalist-circulation-chokepoints/)," _The Disorder of Things_ (September 9, 2014).
+>*  "[Disaster Communism III: Logistics, Repurposing, Bricolage](https://libcom.org/blog/disaster-communism-part-3-logistics-repurposing-bricolage-22052014)," _Libcom_ (May 22, 2014).
+>*  "[Choke Points: Mapping an Anticapitalist Counter-logistics in California](https://libcom.org/library/choke-points-mapping-anticapitalist-counter-logistics-california)," _Libcom_ (July 21, 2014).
 >*  Seattle N30 Logistical Crew, "Seattle Logistics Zine" (1999).
 >*  Brian Ashton, "[Logistics Explained](http://www.labournet.net/docks2/0703/logistics1.htm)," _Labournet_ (March 25, 2007).
 >*  Niccolò Cuppini, Mattia Frapporti, Floriano Milesi, Luca Padova, Maurilio Pirone, "[Logistics and Crisis: The Supply Chain System in the Po Valley Region](http://teachingthecrisis.net/logistics-and-crisis-the-supply-chain-system-in-the-po-valley-region-2/)," for _Teaching the Crisis – Geographies, Methodologies, Perspectives_ (2013).
@@ -125,6 +128,7 @@ Logistics and War
 >*  Martin van Creveld, _Supplying War: Logistics from Wallenstein to Patton_ (Cambridge: Cambridge University Press, 1977).
 >*  John A. Lynn (ed), _Feeding Mars: Logistics In Western Warfare From The Middle Ages To The Present_ (Boulder: Westview Press, 1994).
 >*  Le Baron de Jomini, _Précis de l'Art de la Guerre: Des Principales Combinaisons de la Stratégie, de la Grande Tactique et de la Politique Militaire_ (Brussels: Meline, Cans et Copagnie, 1838); Translated as _[The Art of War](http://www.gutenberg.org/files/13549/13549-h/13549-h.htm)_, G.H. Mendell and W.P. Craighill (trans) (Philadelphia: J.B. Lippincott, 1862); see also _[Introductory Material to Summary of the Art of War](http://usacac.army.mil/cac2/cgsc/carl/download/csipubs/jomini.pdf)_ (1854; GPO, Combat Studies Institute).
+>*  Manuel De Landa, _War in the Age of Intelligent Machines_ (New York: Zone Books, 1991).
 
 Thing Narratives
 ================
@@ -178,14 +182,6 @@ Computational Production
 >*  Bill Waddell, "[Farewell To APICS](http://kevinmeyer.com/blog/2006/02/farewell_to_api.html)," _Kevin Meyer_ (2006).
 >*  Karl E. Kurbel, _Enterprise Resource Planning and Supply Chain Management: Functions, Business Processes and Software for Manufacturing Companies_ (Berlin: Springer, Progress in IS, 2013).
 
-Infrastructures
-===============
->*  Shannon Mattern, "[Infrastructural Tourism](https://placesjournal.org/article/infrastructural-tourism/)," _Places Journal_ (July 2013).
->*  Nicole Starosielski, "[Signal Tracks](http://median.newmediacaucus.org/art-infrastructures-hardware/signal-tracks/),” _Media-N: Journal of the New Media Caucus_ 10, no. 1 (Spring 2014).
->*  Keller Easterling, _Organization Space: Landscapes, Highways, and Houses in America_ (Cambridge: MIT Press, 1999); _Enduring Innocence: Global Architecture and its Political Masquerades_ (Cambridge: MIT Press, 2005); and _Extrastatecraft: The Power of Infrastructure Space_ (New York: Verso, 2014).
->*  Lewis Mumford, Technics and Civilization (Chicago: University of Chicago Press, 2010 [1934]).
->*  Brett Neilson and Ned Rossiter, "[The Logistical City](http://nedrossiter.org/?p=270)," in _Transit Labour: Circuits, Regions, Borders_ no. 3 (August 2011)
-
 Digital Supply Chains
 =====================
 >*  "TorReaper," "[​ISIS Cyber Supply Chain](https://criticl.me/post/%E2%80%8Bisis-cyber-supply-chain-2568)," _Criticl_ (2015) and Anthony Cuthbertson, "[Anonymous #OpISIS: CloudFlare refuses to block service to pro-ISIS websites](http://www.ibtimes.co.uk/anonymous-opisis-cloudflare-refuses-block-service-pro-isis-websites-1495758)," _International Business Times_ (April 10, 2015).
@@ -193,6 +189,14 @@ Digital Supply Chains
 >*  David Meyer, "[The dark side of .io: How the U.K. is making web domain profits from a shady Cold War land deal](https://gigaom.com/2014/06/30/the-dark-side-of-io-how-the-u-k-is-making-web-domain-profits-from-a-shady-cold-war-land-deal/)," _Gigaom_ (June 30, 2014).
 >*  Rosie Cima, "[The Rise and Fall of .Ly](http://priceonomics.com/the-rise-and-fall-of-ly/)," Priceonomics (October 23, 2015).
 >*  Olivia Solon, "[Activists Target Yahoo Over Links to Ivory Trade](http://www.wired.com/2016/01/activists-target-yahoo-over-links-to-ivory-trade/)," _Wired_ (January 25, 2016).
+
+Infrastructures
+===============
+>*  Shannon Mattern, "[Infrastructural Tourism](https://placesjournal.org/article/infrastructural-tourism/)," _Places Journal_ (July 2013).
+>*  Nicole Starosielski, "[Signal Tracks](http://median.newmediacaucus.org/art-infrastructures-hardware/signal-tracks/),” _Media-N: Journal of the New Media Caucus_ 10, no. 1 (Spring 2014).
+>*  Keller Easterling, _Organization Space: Landscapes, Highways, and Houses in America_ (Cambridge: MIT Press, 1999); _Enduring Innocence: Global Architecture and its Political Masquerades_ (Cambridge: MIT Press, 2005); and _Extrastatecraft: The Power of Infrastructure Space_ (New York: Verso, 2014).
+>*  Lewis Mumford, Technics and Civilization (Chicago: University of Chicago Press, 2010 [1934]).
+>*  Brett Neilson and Ned Rossiter, "[The Logistical City](http://nedrossiter.org/?p=270)," in _Transit Labour: Circuits, Regions, Borders_ no. 3 (August 2011)
 
 Deviant Globalization
 =====================
@@ -211,20 +215,20 @@ Reports and Representations
 ===========================
 >*  Global Witness, "[Faced With a Gun, What Can You Do?](https://www.globalwitness.org/sv/campaigns/democratic-republic-congo/faced-gun-what-can-you-do/)" (July 31, 2009).
 >*  Global Witness, "[A Rough Trade: The Role of Companies and Governments in the Angolan Conflict](https://www.globalwitness.org/en/archive/rough-trade/)" (December 1998).
->*  Greenpeace, "Poisoning the Pearl: An Investigation into Industrial Water Pollution in the Pearl River Delta" (January 2010).
+>*  Greenpeace, "[Poisoning the Pearl: An Investigation into Industrial Water Pollution in the Pearl River Delta](http://www.greenpeace.org/international/en/publications/reports/poisoning-the-pearl/)" (January 2010).
 >*  Greenpeace, "[Dirty Laundry: Unravelling the Corporate Connections to Toxic Water Pollution in China](http://www.greenpeace.org/international/en/publications/reports/Dirty-Laundry/)" (July 2011) and "[Dirty Laundry 2: Hung Out of Dry, Unravelling the Toxic Trail from Pipes to Products](http://www.greenpeace.org/international/en/publications/reports/Dirty-Laundry-2/)" (August 2011).
 >*  SACOM, "[Unveiling The Labour Rights Violations: The Second Investigative Report on UNIQLO’s Suppliers in China](http://sacom.hk/wp-content/uploads/2015/11/UNIQLO-finalised-report_1.pdf)," (November 2015).
 >*  Sarah Labowitz and Dorothée Baumann-Pauly, "[Business as Usual is Not an Option: Supply Chains and Sourcing after Rana Plaza](http://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/centers-of-research/business-human-rights/activities/supply-chains-sourcing-after-rana-plaza)," NYU Stern, Center for Business and Human Rights (April 2014).
 >*  John Prendergast and Sasha Lezhnev, "[From Mine to Mobile Phone: The Conflict Minerals Supply Chain](http://www.enoughproject.org/publications/mine-mobile-phone)," _The Enough Project_ (November 2009).
 >*  Friends of the Earth, "[Mining for Smartphones: The True Cost of Tin](https://www.foe.co.uk/sites/default/files/downloads/tin_mining.pdf)" (November 2012).
 >*  Free the Slaves, "[The Congo Report: Slavery in Conflict Minerals](https://www.freetheslaves.net/wp-content/uploads/2015/03/The-Congo-Report-English.pdf)" (June 2011).
->*  SOMO, "Cobalt Blues: Environmental Pollution and Human Rights Violations in Katanga's Copper and Cobalt Mines" (April 2016).
+>*  SOMO, "[Cobalt Blues: Environmental Pollution and Human Rights Violations in Katanga's Copper and Cobalt Mines](http://www.somo.nl/publications-en/Publication_4290)" (April 2016).
 >*  Friends of Nature et al., "The Other Side of Apple" (January 2011) and "The Other Side of Apple II" (August 2011).
->*  FinnWatch, SACOM, and SOMO, "Playing with Labour Rights: Music Player and Game Console Manufacturing in China" (March 2009)
+>*  FinnWatch, SACOM, and SOMO, "[Playing with Labour Rights: Music Player and Game Console Manufacturing in China](http://sacom.hk/wp-content/uploads/2009/03/2009-03-Playing-with-labor-Rights-Music-player-and-game-console-manufacturing-in-China.pdf)" (March 2009)
 >*  FinnWatch, "Legal and Illegal Blurred: Update on Tin Production for Consumer Electronics in Indonesia" (June 2009).
->*  The Institute of Contemporary Observation, FinnWatch, Finnish RCA, "Day and Night at the Factory: Working Conditions of Temporary Workers in the Factories of Nokia and its Suppliers in Southern China" (March 2005).
->*  United States Government Accountability Office, Report to the Committee on Aamed Services, US Senate, DOD Supply Chain, "Suspect Counterfeit Electronic Parts Can Be Found on Internet Purchasing Platforms," GAO-12-375 (February 2012).
->*  World Economy, Ecology, and Development et al., "The Dark Side of Cyberspace: Inside the Sweatshops of China's Computer Hardware Production" (December 2008).
+>*  The Institute of Contemporary Observation, FinnWatch, Finnish RCA, "[Day and Night at the Factory: Working Conditions of Temporary Workers in the Factories of Nokia and its Suppliers in Southern China](http://www.corporatejustice.org/IMG/pdf/en_kiina-raportti.pdf)" (March 2005).
+>*  United States Government Accountability Office, Report to the Committee on Aamed Services, US Senate, DOD Supply Chain, "[Suspect Counterfeit Electronic Parts Can Be Found on Internet Purchasing Platforms](http://gao.gov/products/GAO-12-375)," GAO-12-375 (February 2012).
+>*  World Economy, Ecology, and Development et al., "[The Dark Side of Cyberspace: Inside the Sweatshops of China's Computer Hardware Production](http://electronicswatch.org/the-dark-side-of-cyberspace_3378.pdf)" (December 2008).
  
 Law and Regulation
 ==================
@@ -271,8 +275,8 @@ Syllabi & Conferences
 =====================
 *   **"[The Global Social Factory & Supply Chains](http://thepublicschool.org/node/31394)" at _The Public School_ (2012).**
 *   **Benjamin Noys, Accelerationism and Aesthetics Seminar, "Cold Logics, Cold Logistics," _[Konstfack CuratorLab](https://www.konstfack.se/en/News/Calendar/2016/Higher-seminar-with-theorist-and-critic-Benjamin-Noys/)_ (2016).**
-*   **"Aylwyn Mae Walsh and Michael Shane Boyle (organizers), "[The Arts of Logistics](http://www.artsoflogistics.com/)," Queen Mary University of London (June 3-4, 2016).
-
+*   **"[Turbulent Circulation / Toward a Critical Logistics](https://turbulentcirculation.wordpress.com/)," University of Toronto (October 9-11, 2015).
+*   **Aylwyn Mae Walsh and Michael Shane Boyle (organizers), "[The Arts of Logistics](http://www.artsoflogistics.com/)," Queen Mary University of London (June 3-4, 2016).
 
 Other Materials and Cases
 =========================
