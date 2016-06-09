@@ -12,8 +12,8 @@ Stage Setting
 >*  Dan Williams, "[Christmas in Yiwu](http://www.iamdanw.com/wrote/christmas-in-yiwu/)" (November 19, 2014).
 >*  Tim Maughan, "[The Dystopian Lake Filled by the World's Tech Lust](http://www.bbc.com/future/story/20150402-the-worst-place-on-earth)," _BBC Future_ (April 2, 2015).
 
-Extraction
-==========
+Mining and Extraction
+=====================
 *   **June Nash, _We Eat the Mines and the Mines Eat Us: Dependency and Exploitation in Bolivian Tin Mines_ (New York: Columbia University Press, 1979).**
     "This book is about the high human cost of producing tin and other minerals. June Nash vividly describes the arduous physical labor and life of Bolivian miners in the physically inhospitable Andean mountains. More than an anthropological account of indigenous miners in far-off Bolivia, the book is a serious rendering of the contemporary social, economic, and political reality at the industrial world periphery."
 *   **Andrew Walsh, "'Hot money' and daring consumption in a northern Malagasy sapphire-mining town," _American Ethnologist_ 30 (2003): 290–305.**
@@ -27,6 +27,13 @@ Extraction
 >*  Anthony Bebbington and Jeffrey Bury (eds.), _Subterranean Struggles: New Dynamics of Mining, Oil, and Gas in Latin America_ (Austin: University of Texas Press, 2013).
 >*  Nicholas Robins, _Mercury, Mining, and Empire: The Human and Ecological Cost of Colonial Silver Mining in the Andes_ (Bloomington: Indiana University Press, 2011).
 >*  Marina Welker, _Enacting the Corporation: An American Mining Firm in Post-Authoritarian Indonesia_ (Berkeley: University of California Press, 2014).
+>*  Ted Genoways, "[The Price of the Paperless Revolution](http://www.vqronline.org/editors-desk/price-paperless-revolution)," _Virginia Quarterly Review_ (Fall 2010). // via [Brian Michael Murphy](https://twitter.com/raisedbymovies).
+
+Ivory and Elephants
+-------------------
+>*  Damon Tabor, "[The Ivory Highway](http://www.mensjournal.com/magazine/the-ivory-highway-20140213)," _Men's Journal_ (February 13, 2014).
+>*  Svati Kirsten Narula "[Crush and Burn: A History of the Global Crackdown on Ivory](http://www.theatlantic.com/international/archive/2014/01/crush-and-burn-a-history-of-the-global-crackdown-on-ivory/283310/)," _The Atlantic_ (January 27, 2014).
+>*  Martha Chaiklin, "Ivory in World History: Early Modern Trade in Context," _History Compass_ 8, no. 6 (June 2010): 530-542.
 
 Production and Assembly
 =======================
@@ -46,6 +53,10 @@ Foxconn Focus
 >*  "[The poetry and brief life of a Foxconn worker: Xu Lizhi (1990-2014)](https://libcom.org/blog/xulizhi-foxconn-suicide-poetry)," Nào (闹) Blog (2014).
 >*  Charles Duhigg and David Barboz, "[In China, Human Costs are Built Into an iPad](http://www.nytimes.com/2012/01/26/business/ieconomy-apples-ipad-and-the-human-costs-for-workers-in-china.html)," iEconomy Series, _New York Times_ (January 25, 2012).
 
+Migration and Mobility
+----------------------
+>*  T. J. Demos, _The Migrant Image: The Art and Politics of Documentary during Global Crisis_ (Durham: Duke University Press, 2013). // via [Jason LaRiviere](https://twitter.com/immanenceftw).
+
 Lean Production
 ---------------
 >*  James P. Womack, Daniel T. Jones, Daniel Roos, _The Machine That Changed the World: The Story of Lean Production_ (New York: Free Press, 2007).
@@ -61,6 +72,7 @@ Shipping and Distribution
 >*  Jesse LeCavalier, _The Rule of Logistics: Walmart and the Architecture of Fulfillment_ (Minneapolis: Minnesota Press, 2016).
 >*  Joshua Davis, "[High Tech Cowboys of the Deep Seas](http://www.wired.com/2008/02/ff-seacowboys/)," _Wired_ (February 25, 2008).
 >*  Rose George, _Ninety Percent of Everything: Inside Shipping, the Invisible Industry That Puts Clothes on Your Back, Gas in Your Car, and Food on Your Plate_ (New York: Metropolitan Books, 2013).
+>*  Thomas Birtchnell, Satya Savitzky, John Urry (eds), _Cargomobilities: Moving Materials in a Global Age_ (New York: Routledge, 2015).
 >*  Jacob Hodes, "[Whitewood under Siege](http://cabinetmagazine.org/issues/52/hodes.php)," _Cabinet_ 53 (Winter 2013/14).
 
 The Box
@@ -79,11 +91,19 @@ Critical Perspectives
 	
 >*  Alberto Toscano and Jeff Kinkle, Cartographies of the Absolute (London: Zero Books, 2015).
 >*  Anna Tsing, "Supply Chains and the Human Condition," _Rethinking Marxism: A Journal of Economics, Culture and Society_ 21, no. 2 (2009).
->*  Kwame Appiah, "[The Case for Contamination](http://www.nytimes.com/2006/01/01/magazine/01cosmopolitan.html)," _New York Times Magazine_ (January 1, 2006).
+>*  Jasper Bernes, "[Logistics, Counterlogistics, and the Communist Propspect](https://endnotes.org.uk/en/jasper-bernes-logistics-counterlogistics-and-the-communist-prospect)," _Endnotes 3: Gender, Race, Class and Other Misfortunes_ (September 2013).
 >*  Brian Ashton, "[The Factory Without Walls](http://www.metamute.org/editorial/articles/factory-without-walls)," _Mute_ (September 2006).
->*  Niccolò Cuppini, Mattia Frapporti, Floriano Milesi, Luca Padova, Maurilio Pirone, "[Logistics and Crisis: The Supply Chain System in the Po Valley Region](http://teachingthecrisis.net/logistics-and-crisis-the-supply-chain-system-in-the-po-valley-region-2/)," for _Teaching the Crisis – Geographies, Methodologies, Perspectives_ (2013).
 >*  Brian Holmes, "[Do Containers Dream of Electric People: The Social Form of Just-in-time Production](https://brianholmes.wordpress.com/2011/08/19/do-containers-dream-of-electric-people/)," _Open_ no. 21 (2011).
+>*  Kwame Appiah, "[The Case for Contamination](http://www.nytimes.com/2006/01/01/magazine/01cosmopolitan.html)," _New York Times Magazine_ (January 1, 2006).
 >*  Martin Heidegger, _The Question Concerning Technology_ (New York: Garland, 1977).
+
+Activism and Resistance
+-----------------------
+>*  Charmaine Chua, "[Logistics, Capitalist Circulation, Chokepoints](https://thedisorderofthings.com/2014/09/09/logistics-capitalist-circulation-chokepoints/)," _The Disorder of Things_ (September 9, 2014).
+>*  Seattle N30 Logistical Crew, "Seattle Logistics Zine" (1999).
+>*  Brian Ashton, "[Logistics Explained](http://www.labournet.net/docks2/0703/logistics1.htm)," _Labournet_ (March 25, 2007).
+>*  Niccolò Cuppini, Mattia Frapporti, Floriano Milesi, Luca Padova, Maurilio Pirone, "[Logistics and Crisis: The Supply Chain System in the Po Valley Region](http://teachingthecrisis.net/logistics-and-crisis-the-supply-chain-system-in-the-po-valley-region-2/)," for _Teaching the Crisis – Geographies, Methodologies, Perspectives_ (2013).
+
 
 History and Historiography
 ==========================
@@ -97,6 +117,7 @@ History and Historiography
 >*  Martin T. Farris, “Evolution of Academic Concerns with Transportation and Logistics,” _Transportation Journal_ 37, no. 1 (Fall 1997): 42-50.
 >*  M.L. Emiliani, "Historical Lessons in Purchasing and Supplier Relationship Management," _Journal of Management History_ 16, no. 1, (2010): 116-136.
 >*  Paul L. Govekar and Michele A. Govekar, “The Parable of the Pig Iron: Using Taylor’s Story to Teach the Principles of Scientific Management,” _Journal of Higher Education Theory and Practice_ 12, no. 2 (2012). 
+>*  Peter Drucker, "The Economy’s Dark Continent," _Fortune_ (April 1962).
 
 Logistics and War
 -----------------
@@ -160,14 +181,10 @@ Computational Production
 Infrastructures
 ===============
 >*  Shannon Mattern, "[Infrastructural Tourism](https://placesjournal.org/article/infrastructural-tourism/)," _Places Journal_ (July 2013).
+>*  Nicole Starosielski, "[Signal Tracks](http://median.newmediacaucus.org/art-infrastructures-hardware/signal-tracks/),” _Media-N: Journal of the New Media Caucus_ 10, no. 1 (Spring 2014).
 >*  Keller Easterling, _Organization Space: Landscapes, Highways, and Houses in America_ (Cambridge: MIT Press, 1999); _Enduring Innocence: Global Architecture and its Political Masquerades_ (Cambridge: MIT Press, 2005); and _Extrastatecraft: The Power of Infrastructure Space_ (New York: Verso, 2014).
 >*  Lewis Mumford, Technics and Civilization (Chicago: University of Chicago Press, 2010 [1934]).
 >*  Brett Neilson and Ned Rossiter, "[The Logistical City](http://nedrossiter.org/?p=270)," in _Transit Labour: Circuits, Regions, Borders_ no. 3 (August 2011)
-
-Activism and Resistance
-=======================
->*  Seattle N30 Logistical Crew, "Seattle Logistics Zine" (1999).
->*  Brian Ashton, "[Logistics Explained](http://www.labournet.net/docks2/0703/logistics1.htm)," _Labournet_ (March 25, 2007).
 
 Digital Supply Chains
 =====================
@@ -245,18 +262,19 @@ Logistical Films
 
 Logistical Games
 ================
-*   **[_Cargonauts_](http://cargonauts.net/) (2015)**
+*   **[_OpenTTD_](https://www.openttd.org/en/) (2004-)**
+    "OpenTTD is a business simulation game in which players try to earn money via transporting passengers and freight by road, rail, water and air. It is an open source remake and expansion of the 1995 Chris Sawyer video game Transport Tycoon Deluxe."
+*   **[_Cargonauts_](http://cargonauts.net/) (2015-)**
     "Part of the _Logistical Worlds_ Project, Cargonauts envisions a logistical world of infrastructure, of transport economies, of zones and concessions, of nocturnal possibilities for sabotage and revenge."
 
-Supply Studies Syllabi
-=============
+Syllabi & Conferences
+=====================
 *   **"[The Global Social Factory & Supply Chains](http://thepublicschool.org/node/31394)" at _The Public School_ (2012).**
 *   **Benjamin Noys, Accelerationism and Aesthetics Seminar, "Cold Logics, Cold Logistics," _[Konstfack CuratorLab](https://www.konstfack.se/en/News/Calendar/2016/Higher-seminar-with-theorist-and-critic-Benjamin-Noys/)_ (2016).**
+*   **"Aylwyn Mae Walsh and Michael Shane Boyle (organizers), "[The Arts of Logistics](http://www.artsoflogistics.com/)," Queen Mary University of London (June 3-4, 2016).
+
 
 Other Materials and Cases
 =========================
 >*  R. Buckminster Fuller, "The World Game: Integrative Resource Utilization Planning Tool," _World Resource Inventory_ (Carbondale: Southern Illinois University, 1971). 
 >*  Peter Stallybrass, "Marx's Coat" in Patria Spyer (ed) _Border Fetishisms: Material Objects in Unstable Spaces_ (London: Routledge, 1997). 
->*  Damon Tabor, "[The Ivory Highway](http://www.mensjournal.com/magazine/the-ivory-highway-20140213)," _Men's Journal_ (February 13, 2014).
->*  Svati Kirsten Narula "[Crush and Burn: A History of the Global Crackdown on Ivory](http://www.theatlantic.com/international/archive/2014/01/crush-and-burn-a-history-of-the-global-crackdown-on-ivory/283310/)," _The Atlantic_ (January 27, 2014).
->*  Martha Chaiklin, "Ivory in World History: Early Modern Trade in Context," _History Compass_ 8, no. 6 (June 2010): 530-542.
