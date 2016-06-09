@@ -277,10 +277,10 @@ Logistical Games
 
 Syllabi and Conferences
 =======================
-*   **"[The Global Social Factory & Supply Chains](http://thepublicschool.org/node/31394)" at _The Public School_ (2012).**
-*   **Benjamin Noys, Accelerationism and Aesthetics Seminar, "Cold Logics, Cold Logistics," _[Konstfack CuratorLab](https://www.konstfack.se/en/News/Calendar/2016/Higher-seminar-with-theorist-and-critic-Benjamin-Noys/)_ (2016).**
-*   **"[Turbulent Circulation / Toward a Critical Logistics](https://turbulentcirculation.wordpress.com/)," University of Toronto (October 9-11, 2015).
-*   **Aylwyn Mae Walsh and Michael Shane Boyle (organizers), "[The Arts of Logistics](http://www.artsoflogistics.com/)," Queen Mary University of London (June 3-4, 2016).
+*   **"[The Global Social Factory & Supply Chains](http://thepublicschool.org/node/31394),"** _The Public School_ (2012).
+*   **"Cold Logics, Cold Logistics,"** Benjamin Noys, Accelerationism and Aesthetics Seminar, _[Konstfack CuratorLab](https://www.konstfack.se/en/News/Calendar/2016/Higher-seminar-with-theorist-and-critic-Benjamin-Noys/)_ (2016).
+*   **"[Turbulent Circulation / Toward a Critical Logistics](https://turbulentcirculation.wordpress.com/),"** University of Toronto (October 9-11, 2015).
+*   **"[The Arts of Logistics](http://www.artsoflogistics.com/),"** Aylwyn Mae Walsh and Michael Shane Boyle (organizers), Queen Mary University of London (June 3-4, 2016).
 
 Projects and Groups
 ===================
