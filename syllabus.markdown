@@ -9,8 +9,9 @@ Stage Setting
 >*  Pietra Rivoli, _The Travels of a T-Shirt in the Global Economy: An Economist Examines the Markets, Power and Politics of the World Trade_ (Hoboken: Wiley, 2009).
 >*  Nicola Twilley, "[What Do Chinese Dumplings Have to Do With Global Warming?](http://www.nytimes.com/2014/07/27/magazine/what-do-chinese-dumplings-have-to-do-with-global-warming.html)," _New York Times_ (2014).
 >*  Beth Kowitt, "[It’s Ikea’s world. We just live in it](http://fortune.com/ikea-world-domination/)," _Fortune_ (2015).
->*  Dan Williams, "[Christmas in Yiwu](http://www.iamdanw.com/wrote/christmas-in-yiwu/)" (November 19, 2014).
+>*  Dan Williams, "[Christmas in Yiwu](http://www.iamdanw.com/wrote/christmas-in-yiwu/)" (November 19, 2014); and Tim Maughan, "[Yiwu: The Chinese City Where Christmas is Made and Sold](http://www.bbc.com/future/story/20141218-the-hidden-home-of-christmas)," _BBC Future_ (December 14, 2014).
 >*  Tim Maughan, "[The Dystopian Lake Filled by the World's Tech Lust](http://www.bbc.com/future/story/20150402-the-worst-place-on-earth)," _BBC Future_ (April 2, 2015).
+>*  Charmine Chua, "[Logistics: Violence, Empire and Resistance](https://soundcloud.com/dissonanceofthings/logistics-violence-empire-resistance)," Discussion with Laleh Khalili and Deborah Cowen, _The Dissonance of Things_ (May 2016).
 
 Mining and Extraction
 =====================
@@ -19,15 +20,17 @@ Mining and Extraction
 *   **Andrew Walsh, "'Hot money' and daring consumption in a northern Malagasy sapphire-mining town," _American Ethnologist_ 30 (2003): 290–305.**
     "In Ambondromifehy, a sapphire-mining town in northern Madagascar, young men earn and spend a great deal of what some call 'hot money.' Rather than invest their earnings with long-term intentions considered responsible and proper by some around them, they consume 'daringly' by spending money to fulfill immediate desires. Walsh argues that such 'daring consumption' might be understood as the active response of young men who refuse the passive roles allotted them by both the sapphire trade and traditional systems of social organization."
 
->*  Mats Ingulstad, Andrew Perchard, Espen Storli (eds.), _Tin and Global Capitalism, 1850-2000: A History of “the Devil's Metal”_ (London: Routledge, 2015).
 >*  Alex Golub, _Leviathans at the Gold Mine: Creating Indigenous and Corporate Actors in Papua New Guinea_ (Durham: Duke University Press, 2014).
+>*  Ingrid Burrington, "[Literal American Gold Mine](http://sfaq.us/2015/12/literal-american-gold-mine/)" _San Francisco Art Quarterly_ (December 11, 2015).
+>*  Mats Ingulstad, Andrew Perchard, Espen Storli (eds.), _Tin and Global Capitalism, 1850-2000: A History of “the Devil's Metal”_ (London: Routledge, 2015).
 >*  Stuart Kirsch, _Mining Capitalism: The Relationship between Corporations and Their Critics_ (Berkeley: University of California PRess, 2014)
 >*  IIED, Mining, Minerals and Sustainable Development "[Global Report on Artisanal & Small-Scale Mining](http://pubs.iied.org/pdfs/G00723.pdf) (January 2002).
 >*  A. Laurie Palmer, _In the Aura of a Hole: Exploring Sites of Material Extraction_ (New York: Black Dog, 2015).
 >*  Anthony Bebbington and Jeffrey Bury (eds.), _Subterranean Struggles: New Dynamics of Mining, Oil, and Gas in Latin America_ (Austin: University of Texas Press, 2013).
 >*  Nicholas Robins, _Mercury, Mining, and Empire: The Human and Ecological Cost of Colonial Silver Mining in the Andes_ (Bloomington: Indiana University Press, 2011).
 >*  Marina Welker, _Enacting the Corporation: An American Mining Firm in Post-Authoritarian Indonesia_ (Berkeley: University of California Press, 2014).
->*  Ted Genoways, "[The Price of the Paperless Revolution](http://www.vqronline.org/editors-desk/price-paperless-revolution)," _Virginia Quarterly Review_ (Fall 2010). // via [Brian Michael Murphy](https://twitter.com/raisedbymovies).
+>*  Ted Genoways, "[The Price of the Paperless Revolution](http://www.vqronline.org/editors-desk/price-paperless-revolution)," _Virginia Quarterly Review_ (Fall 2010). // [via](https://twitter.com/raisedbymovies).
+>*  Arie Altena, "[Nikel and Nikel Materiality](http://www.sonicacts.com/portal/research-series/nikel-and-nikel-materiality)," _Sonic Acts_ (2015).
 
 Ivory and Elephants
 -------------------
@@ -46,16 +49,18 @@ Production and Assembly
 >*  Pun Ngai, _Made in China: Women Factory Workers in a Global Workplace_ (Durham: Duke University Press, 2005); with Jenny Chan, "[Suicide as Protest for the New Generation of Chinese Migrant Workers: Foxconn, Global Capital, and the State](http://apjjf.org/-Jenny-Chan/3408/article.html)," _The Asia-Pacific Journal_ 8, iss. 37, no. 2 (September 13, 2010); and with Mark Selden, "The politics of global production: Apple, Foxconn and China's new working class," _New Technology, Work and Employment_ 28, no. 2 (July 2013): 100–115.
 >*  Steven Mckay, _Satanic Mills or Silicon Islands?: The Politics of High-Tech Production in the Philippines_ (Ithaca: ILR Press, 2006).
 
-Foxconn and Factories
+Foxconn and Shenzhen
 ---------------------
 >*  Cam Simpson, "[An iPhone Tester Caught in Apple's Supply Chain](http://www.bloomberg.com/news/articles/2013-11-07/an-iphone-tester-caught-in-apples-supply-chain)," _Bloomberg_ (November 7, 2013).
 >*  "[The poetry and brief life of a Foxconn worker: Xu Lizhi (1990-2014)](https://libcom.org/blog/xulizhi-foxconn-suicide-poetry)," Nào (闹) Blog (2014).
 >*  Charles Duhigg and David Barboz, "[In China, Human Costs are Built Into an iPad](http://www.nytimes.com/2012/01/26/business/ieconomy-apples-ipad-and-the-human-costs-for-workers-in-china.html)," iEconomy Series, _New York Times_ (January 25, 2012).
+>*  Tim Maughan, "[The Changing Face of Shenzhen, the World's Gadget Factory](http://motherboard.vice.com/read/beyond-foxconn-inside-shenzhen-the-worlds-gadget-factory)," _Motherboard_ (August 19, 2015).
+>*  Bunnie Huang and Wired, "[Shenzhen: The Silicon Valley of Hardware](https://www.youtube.com/watch?v=hp6F_ApUq-c)" _Wired, Future Cities_ (June 7, 2016); Nicole Scott and Mobilegeeks, "[Shenzhen Smartphone Market (Walking through the Yuanwang Digital Mall)](https://www.youtube.com/watch?v=G-ltHoD0j1Q)," _Mobilegeeks_ (May 11, 2015).
 
 Migration and Mobility
 ----------------------
 >*  Hairong Yan, _New Masters, New Servants: Migration, Development, and Women Workers in China_ (Durham: Duke University Press, 2008).
->*  T. J. Demos, _The Migrant Image: The Art and Politics of Documentary during Global Crisis_ (Durham: Duke University Press, 2013). // via [Jason LaRiviere](https://twitter.com/immanenceftw).
+>*  T. J. Demos, _The Migrant Image: The Art and Politics of Documentary during Global Crisis_ (Durham: Duke University Press, 2013). // [via](https://twitter.com/immanenceftw).
 >*  Kwame Appiah, "[The Case for Contamination](http://www.nytimes.com/2006/01/01/magazine/01cosmopolitan.html)," _New York Times Magazine_ (January 1, 2006).
 
 Modes of Production
@@ -76,6 +81,7 @@ Shipping and Distribution
 >*  Joshua Davis, "[High Tech Cowboys of the Deep Seas](http://www.wired.com/2008/02/ff-seacowboys/)," _Wired_ (February 25, 2008).
 >*  Rose George, _Ninety Percent of Everything: Inside Shipping, the Invisible Industry That Puts Clothes on Your Back, Gas in Your Car, and Food on Your Plate_ (New York: Metropolitan Books, 2013).
 >*  Thomas Birtchnell, Satya Savitzky, John Urry (eds), _Cargomobilities: Moving Materials in a Global Age_ (New York: Routledge, 2015).
+>*	Tim Maughan, "[The Invisible Network that Keeps the World Running](http://www.bbc.com/future/story/20150209-the-network-that-runs-the-world)" _BBC Future_ (February 9, 2015); and "[The Inevitable Rise of the Internet of Shipping Containers](http://motherboard.vice.com/read/the-inevitable-rise-of-the-internet-of-shipping-containers)," _Motherboard_ (September 24, 2015)
 >*  Jacob Hodes, "[Whitewood under Siege](http://cabinetmagazine.org/issues/52/hodes.php)," _Cabinet_ 53 (Winter 2013/14).
 
 The Box
@@ -107,6 +113,7 @@ Activism and Resistance
 >*  Seattle N30 Logistical Crew, "Seattle Logistics Zine" (1999).
 >*  Brian Ashton, "[Logistics Explained](http://www.labournet.net/docks2/0703/logistics1.htm)," _Labournet_ (March 25, 2007).
 >*  Niccolò Cuppini, Mattia Frapporti, Floriano Milesi, Luca Padova, Maurilio Pirone, "[Logistics and Crisis: The Supply Chain System in the Po Valley Region](http://teachingthecrisis.net/logistics-and-crisis-the-supply-chain-system-in-the-po-valley-region-2/)," for _Teaching the Crisis – Geographies, Methodologies, Perspectives_ (2013).
+>*  Laleh Khalili, "[The Logistics of Counterinsurgency](https://thegamming.org/2016/05/10/the-logistics-of-counterinsurgency/)," Georgetown University, Center for Contemporary Arab Studies (May 2006).
 
 
 History and Historiography
@@ -130,6 +137,7 @@ Logistics and War
 >*  John A. Lynn (ed), _Feeding Mars: Logistics In Western Warfare From The Middle Ages To The Present_ (Boulder: Westview Press, 1994).
 >*  Le Baron de Jomini, _Précis de l'Art de la Guerre: Des Principales Combinaisons de la Stratégie, de la Grande Tactique et de la Politique Militaire_ (Brussels: Meline, Cans et Copagnie, 1838); Translated as _[The Art of War](http://www.gutenberg.org/files/13549/13549-h/13549-h.htm)_, G.H. Mendell and W.P. Craighill (trans) (Philadelphia: J.B. Lippincott, 1862); see also _[Introductory Material to Summary of the Art of War](http://usacac.army.mil/cac2/cgsc/carl/download/csipubs/jomini.pdf)_ (1854; GPO, Combat Studies Institute).
 >*  Manuel De Landa, _War in the Age of Intelligent Machines_ (New York: Zone Books, 1991).
+>*  Derek Gregory, "[Supplying war in Afghanistan: the frictions of distance](https://www.opendemocracy.net/derek-gregory/supplying-war-in-afghanistan-frictions-of-distance)," _Open Democracy_ (June 11, 2012).
 
 Thing Narratives
 ================
@@ -199,8 +207,9 @@ Infrastructures & Spaces
 >*  Lewis Mumford, Technics and Civilization (Chicago: University of Chicago Press, 2010 [1934]).
 >*  Brett Neilson and Ned Rossiter, "[The Logistical City](http://nedrossiter.org/?p=270)," in _Transit Labour: Circuits, Regions, Borders_ no. 3 (August 2011)
 >*  Dara Orenstein, "Foreign-­Trade­ Zones­ and ­the ­Cultural ­Logic of ­Frictionless ­Production," _Radical History Review_ 109 (Winter 2011).
->*  "[The FTZ as Device]"(http://southwestcorridornorthwestpassage.org/the-ftz-as-device/), _Southwest Corridor Northwest Passage_ (2014)
+>*  "[The FTZ as Device](http://southwestcorridornorthwestpassage.org/the-ftz-as-device/)," _Southwest Corridor Northwest Passage_ (2014)
 >*  Rozalinda Borcila, "[Riding the Zone](http://midwestcompass.org/wp-content/uploads/2013/10/Borcila_Riding-the-zone.pdf)," _Deep Routes: The Midwest in all Directions_ (2015).
+>*  Ingrid Burrington, "[The Cloud is Not the Territory](http://wagingnonviolence.org/feature/cloud-territory/)" _Waging Nonviolience_ (May 20, 2014).
 
 Deviant Globalization
 =====================
@@ -286,14 +295,26 @@ Projects and Groups
 ===================
 *  **[Empire Logistics](http://www.empirelogistics.org/)**
 	"Empire Logistics is an interactive mapping project begun in 2009. As a collaborative initiative, Empire Logistics maps the global supply chain through research that articulates the infrastructure and 'externalized costs'—human, economic, social and environmental—of the international flow of things."
-*  **[Center for Land Use Interpretation](http://clui.org/)**
+*   **[Logistical Worlds: Infrastructure, Software, Labour](http://logisticalworlds.org/)**
+    "How to study China-led globalisation through infrastructural interventions? This question prompts the investigation of logistical operations that fabricate the emerging trade network known as the New Silk Road. Moving between software studies and geocultural analysis of labour regimes, the project tracks algorithmic arrangements of power across the tricontinental sites of Piraeus, Valparaíso and Kolkata... Subjectivity and labour expose the power and vulnerability of logistical worlds."
+*   **[Center for Land Use Interpretation](http://clui.org/)**
    	"The Center for Land Use Interpretation is a research and education organization interested in understanding the nature and extent of human interaction with the surface of the earth, and in finding new meanings in the intentional and incidental forms that we individually and collectively create. We believe that the manmade landscape is a cultural inscription, that can be read to better understand who we are, and what we are doing."
-*   **[Warehouse Workers for Justice](http://www.warehouseworker.org/)**
-	"Warehouse Workers for Justice is a worker center founded in 2009 to win stable, living wage jobs with dignity for the hundreds of thousands of workers in Illinois' logistics and distribution industry. We provide workshops so warehouse workers can educate themselves about workplace rights, unite warehouse workers to defend their rights on the job, build community support for the struggles of warehouse workers and fight for policy changes to improve the lives of warehouse workers and members of our communities."
 *	**[Transit-labour](http://transitlabour.asia/home/)** (X)
 	"Transit-labour investigates changing patterns of labour and mobility in the whirlwind of Asian capitalist transformation. Mindful of the view of Asia as the world's factory, this three year research project examines the role of creativity, invention and knowledge production in the new economic order being forged from the region's capitalist centres. Particular attention is given to changing relations of culture and economy in this transition and their entanglement with the production of new subjectivities and modalities of labour."
+*	**[followthethings.com](http://www.followthethings.com/)**
+	"followthethings.com is a website designed to have the look, feel and navigation of a familiar online store. But it’s stocked with research examining films, art, activist and other work that encourages shoppers to critically consider their relationships with those who make the things that they buy. Its purpose is to encourage careful thought and lively conversation about trade (in)justice, and to encourage and inform new work in this genre of commodity activism."
+*	**[The Story of Stuff Project](http://storyofstuff.org/)**
+	"We have a problem with Stuff. We use too much, too much of it is toxic and we don’t share it very well. But that’s not the way things have to be. Together, we can build a society based on better not more, sharing not selfishness, community not division."
+*	**[Unknown Fields Division](http://www.unknownfieldsdivision.com/)**
+	"The Unknown Fields Division is a nomadic design research studio that ventures out on expeditions to the ends of the earth to bear witness to alternative worlds, alien landscapes, industrial ecologies and precarious wilderness. These distant landscapes - the iconic and the ignored, the excavated, irradiated and the pristine, are embedded in global systems that connect them in surprising and complicated ways to our everyday lives. In such a landscape of interwoven narratives, the studio uses film and animation to chronicle this network of hidden stories and re-imagine the complex and contradictory realities of the present as a site of strange and extraordinary futures."
+*	**[The Infrastructure Observatory](http://infraobservatory.com/)**
+	"The Infrastructure Observatory is a community devoted to exploring and celebrating the infrastructural landscape. Our mission is to render visible the oft-invisible guts of modern life, and foster chapters of enthusiasts around these structures throughout the world. IO is mostly involved in organizing field trips to infrastructure sites"
+*   **[Warehouse Workers for Justice](http://www.warehouseworker.org/)**
+	"Warehouse Workers for Justice is a worker center founded in 2009 to win stable, living wage jobs with dignity for the hundreds of thousands of workers in Illinois' logistics and distribution industry. We provide workshops so warehouse workers can educate themselves about workplace rights, unite warehouse workers to defend their rights on the job, build community support for the struggles of warehouse workers and fight for policy changes to improve the lives of warehouse workers and members of our communities."
 
 Other Materials and Cases
 =========================
 >*  R. Buckminster Fuller, "The World Game: Integrative Resource Utilization Planning Tool," _World Resource Inventory_ (Carbondale: Southern Illinois University, 1971). 
 >*  Peter Stallybrass, "Marx's Coat" in Patria Spyer (ed) _Border Fetishisms: Material Objects in Unstable Spaces_ (London: Routledge, 1997). 
+
+
