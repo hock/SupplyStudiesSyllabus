@@ -20,6 +20,7 @@ Mining and Extraction
 *   **Andrew Walsh, "'Hot money' and daring consumption in a northern Malagasy sapphire-mining town," _American Ethnologist_ 30 (2003): 290–305.**
     "In Ambondromifehy, a sapphire-mining town in northern Madagascar, young men earn and spend a great deal of what some call 'hot money.' Rather than invest their earnings with long-term intentions considered responsible and proper by some around them, they consume 'daringly' by spending money to fulfill immediate desires. Walsh argues that such 'daring consumption' might be understood as the active response of young men who refuse the passive roles allotted them by both the sapphire trade and traditional systems of social organization."
 
+>*  Pieter Hugo, _Permanent Error_ (London: Prestel, 2011) and a review by Sean O'Toole, "[Permanent Error](http://www.mahala.co.za/art/permanent-error/)," _Mahala_ (May 2011). // [via](http://www.lievengevaertcentre.be/people/jeroen-verbeeck)
 >*  Alex Golub, _Leviathans at the Gold Mine: Creating Indigenous and Corporate Actors in Papua New Guinea_ (Durham: Duke University Press, 2014).
 >*  Ingrid Burrington, "[Literal American Gold Mine](http://sfaq.us/2015/12/literal-american-gold-mine/)" _San Francisco Art Quarterly_ (December 11, 2015).
 >*  Mats Ingulstad, Andrew Perchard, Espen Storli (eds.), _Tin and Global Capitalism, 1850-2000: A History of “the Devil's Metal”_ (London: Routledge, 2015).
@@ -132,6 +133,7 @@ Activism and Resistance
 >*  Laleh Khalili, "[The Logistics of Counterinsurgency](https://thegamming.org/2016/05/10/the-logistics-of-counterinsurgency/)," Georgetown University, Center for Contemporary Arab Studies (May 2006).
 >*	Sarah-Joyce Battersby, "[Inside Toronto's Black Lives Matter Camp](https://www.thestar.com/news/gta/2016/04/03/inside-torontos-black-lives-matter-camp.html)," _Toronto Star_ (April 3, 2016).
 >*  Shiri Pasternak, "[The economics of insurgency: Thoughts on Idle No More and critical infrastructure](http://www.shiripasternak.com/the-economics-of-insurgency-thoughts-on-idle-no-more-and-critical-infrastructure/)," _Rabble_ (January, 2013).
+>*  Anna Curcio, "[Practicing militant inquiry: Composition, strike and betting in the logistics workers struggles in Italy](http://www.ephemerajournal.org/contribution/practicing-militant-inquiry-composition-strike-and-betting-logistics-workers-struggles)," _ephemera: theory & politics in organization_ 14, no. 3 (2014). // [via](http://www.lievengevaertcentre.be/people/jeroen-verbeeck)
 
 History and Historiography
 ==========================
