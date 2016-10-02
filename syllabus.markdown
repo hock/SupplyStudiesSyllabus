@@ -22,9 +22,11 @@ Mining and Extraction
 
 >*  Pieter Hugo, _Permanent Error_ (London: Prestel, 2011) and a review by Sean O'Toole, "[Permanent Error](http://www.mahala.co.za/art/permanent-error/)," _Mahala_ (May 2011). // [via](http://www.lievengevaertcentre.be/people/jeroen-verbeeck)
 >*  Alex Golub, _Leviathans at the Gold Mine: Creating Indigenous and Corporate Actors in Papua New Guinea_ (Durham: Duke University Press, 2014).
+>*  James Smith and Jeffrey Mantz, "Do Cellular Phones Dream of Civil War?: The Mystification of Production and the Consequences of Technology Fetishism in the Eastern Congo," in _Inclusion and Exclusion in the Global Arena_ (New York: Routledge, 2006).
+>*  Todd Frankel, ["The Cobalt Pipeline"](https://www.washingtonpost.com/graphics/business/batteries/congo-cobalt-mining-for-lithium-ion-battery/), _Washington Post_ (September 30, 2016).
 >*  Ingrid Burrington, "[Literal American Gold Mine](http://sfaq.us/2015/12/literal-american-gold-mine/)" _San Francisco Art Quarterly_ (December 11, 2015).
 >*  Mats Ingulstad, Andrew Perchard, Espen Storli (eds.), _Tin and Global Capitalism, 1850-2000: A History of “the Devil's Metal”_ (London: Routledge, 2015).
->*  Stuart Kirsch, _Mining Capitalism: The Relationship between Corporations and Their Critics_ (Berkeley: University of California PRess, 2014)
+>*  Stuart Kirsch, _Mining Capitalism: The Relationship between Corporations and Their Critics_ (Berkeley: University of California Press, 2014)
 >*  IIED, Mining, Minerals and Sustainable Development "[Global Report on Artisanal & Small-Scale Mining](http://pubs.iied.org/pdfs/G00723.pdf) (January 2002).
 >*  A. Laurie Palmer, _In the Aura of a Hole: Exploring Sites of Material Extraction_ (New York: Black Dog, 2015).
 >*  Anthony Bebbington and Jeffrey Bury (eds.), _Subterranean Struggles: New Dynamics of Mining, Oil, and Gas in Latin America_ (Austin: University of Texas Press, 2013).
