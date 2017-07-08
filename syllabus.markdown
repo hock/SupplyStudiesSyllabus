@@ -73,11 +73,12 @@ Modes of Production
 ---- 
 > *  James P. Womack, Daniel T. Jones, Daniel Roos, _The Machine That Changed the World: The Story of Lean Production_ (New York: Free Press, 2007).
 > *  Kim Moody, "The Rise and Limits of Lean Production," in _Workers in a Lean World_ (New York: Verso, 1997): 85-113.
+> * W. Bruce Allen, "The Logistics Revolution and Transportation" _The Annals of the American Academy of Political and Social Science_ 553 (September 1997), 106-116. 
 > *  Brian Holmes, "[Do Containers Dream of Electric People: The Social Form of Just-in-time Production](https://brianholmes.wordpress.com/2011/08/19/do-containers-dream-of-electric-people/)," _Open_ no. 21 (2011).
 > *  Beth Gutelius, "Disarticulating distribution: Labor segmentation and subcontracting in global logistics," _Geoforum_ 60 (March 2015): 53–61.
 > *  Brian Ashton, "[The Factory Without Walls](http://www.metamute.org/editorial/articles/factory-without-walls)," \_Mute\_ (September 2006).
 > *  David E. Nye, _America's Assembly Line_ (Cambridge: MIT Press, 2013).
-> 	 
+ 	 
 Shipping and Distribution
 =========================
 *   **Deborah Cowen, _The Deadly Life of Logistics: Mapping Violence in Global Trade_ (Minneapolis: University of Minnesota Press, 2014).**
@@ -116,11 +117,11 @@ Critical Perspectives
 	As Toscano remarks, "it has long been noted that the apparatuses of control and accumulation that structure the social and material reality of circulation – transport, the energy industry and, after World War Two, “business logistics” – though born to break the bargaining power of transport workers and accumulate profits by annihilating space and depressing wages, have also, especially through their energetic dimensions, created dynamic arenas for class struggle.
 *   **Fredric Jameson, "Utopia as Replication" in _Valences of the Dialectic_ (New York: Verso, 2009).**
 	"This is the point at which I wish to propose a model for Utopian analysis that might be taken as a kind of synthesis of these two subjective and objective approaches. I want to develop two examples of this kind of interpretation, which will be what I want to identify, not as the Utopian method as such, but at least as one possible method among others: and these examples will draw on history and theory respectively. My theoretical example will be drawn from the now burgeoning field of manifestos for a politics of the “multitude”; my historical example will however propose a new institutional candidate for the function of Utopian allegory and that is the phenomenon called Wal-Mart."
+*	**Stefano Harney and Fred Moten, _The Undercommons: Fugitive Planning & Black Study_, especially 	"Fantasy in the Hold" (Brooklyn: Autonomedia, 2013).**
 	 
 > *  Alberto Toscano and Jeff Kinkle, Cartographies of the Absolute (London: Zero Books, 2015).
 > *  Anna Tsing, "Supply Chains and the Human Condition," _Rethinking Marxism: A Journal of Economics, Culture and Society_ 21, no. 2 (2009).
 > *  Jasper Bernes, "[Logistics, Counterlogistics, and the Communist Propspect](https://endnotes.org.uk/en/jasper-bernes-logistics-counterlogistics-and-the-communist-prospect)," _Endnotes 3: Gender, Race, Class and Other Misfortunes_ (September 2013).
-> *  Stefano Harney and Fred Moten, "Fantasy in the Hold" in _The Undercommons: Fugitive Planning & Black Study_ (Brooklyn: Autonomedia, 2013).
 > *  Brett Neilson, "[Beyond Kulturkritik: Along the Supply Chain of Contemporary Capitalism](http://www.cultureunbound.ep.liu.se/v6/a04/cu14v6a04.pdf)," _Culture Unbound_ 6 (2014): 77–93; and "Five Theses on Understanding Logistics as Power" _Distinktion: Scandinavian Journal of Social Theory_ 13, no. 3 (December 2012) 322–339.
 > *  Martin Heidegger, _The Question Concerning Technology_ (New York: Garland, 1977).
 
@@ -159,6 +160,7 @@ Logistics and War
 > *  Le Baron de Jomini, _Précis de l'Art de la Guerre: Des Principales Combinaisons de la Stratégie, de la Grande Tactique et de la Politique Militaire_ (Brussels: Meline, Cans et Copagnie, 1838); Translated as _[The Art of War](http://www.gutenberg.org/files/13549/13549-h/13549-h.htm)_, G.H. Mendell and W.P. Craighill (trans) (Philadelphia: J.B. Lippincott, 1862); see also _[Introductory Material to Summary of the Art of War](http://usacac.army.mil/cac2/cgsc/carl/download/csipubs/jomini.pdf)_ (1854; GPO, Combat Studies Institute).
 > *  Manuel De Landa, _War in the Age of Intelligent Machines_ (New York: Zone Books, 1991).
 > *  Derek Gregory, "[Supplying war in Afghanistan: the frictions of distance](https://www.opendemocracy.net/derek-gregory/supplying-war-in-afghanistan-frictions-of-distance)," _Open Democracy_ (June 11, 2012).
+> * Thomas Nail, _Theory of the Border_ (Oxford: Oxford University Press, 2016). 
 
 Thing Narratives
 ================
@@ -173,6 +175,7 @@ Thing Narratives
 Ethnographies of Circulation
 ============================
 > *  Brenda Chalfin, _Shea Butter Republic: State Power, Global Markets and the Making of an Indigenous Commodity_ (New York: Routledge, 2004). // [via](https://twitter.com/josef_wieland)
+> *  Gabrielle Hecht, _Being Nuclear: Africans and the Global Uranium Trade_ (Cambridge: MIT Press, 2012).
 
 Corporations and Responsibilities
 =================================
@@ -365,4 +368,3 @@ Other Materials and Cases
 =========================
 > *  R. Buckminster Fuller, "The World Game: Integrative Resource Utilization Planning Tool," _World Resource Inventory_ (Carbondale: Southern Illinois University, 1971). 
 > *  Peter Stallybrass, "Marx's Coat" in Patria Spyer (ed) _Border Fetishisms: Material Objects in Unstable Spaces_ (London: Routledge, 1997). 
-
