@@ -105,6 +105,7 @@ The Box
 > *  Craig Martin, _Shipping Container_ (London: Bloomsbury "Object Lessons" Series, 2016).
 > *  Alexander Klose, _The Container Principle: How a Box Changes the Way We Think_, Charles Marcrum (trans) (Cambridge: MIT Press, 2015).
 > *  Michael Shane Boyle, "[Container Aesthetics: The Infrastructural Politics of Shunts The Boy Who Climbed Out of His Face](https://www.academia.edu/24512297/Container_Aesthetics_The_Infrastructural_Politics_of_Shunts_The_Boy_Who_Climbed_Out_of_His_Face)," _Theatre Journal_ 68, no. 1 (March 2016): 57-77.
+> * Tim Hwang and Craid Cannon, _The Container Guide_ (San Francisco: Infrastructure Observatory Press, 2015).
 > *  Allan Sekula, _Fish Story_, (Düsseldorf: Richter Verlag, 2002).
 
 Consumption
