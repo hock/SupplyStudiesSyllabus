@@ -13,6 +13,14 @@ Stage Setting
 > *  Tim Maughan, "[The Dystopian Lake Filled by the World's Tech Lust](http://www.bbc.com/future/story/20150402-the-worst-place-on-earth)," _BBC Future_ (April 2, 2015).
 > *  Charmine Chua, "[Logistics: Violence, Empire and Resistance](https://soundcloud.com/dissonanceofthings/logistics-violence-empire-resistance)," Discussion with Laleh Khalili and Deborah Cowen, _The Dissonance of Things_ (May 2016).
 
+Logistical Media
+================
+> *  Judd Case, "Logistical Media: Fragments from Radar’s Prehistory," _Canadian Journal of Communication_ 38 (2013): 379-395.
+> *  John Durham Peters, "Calendar, Clock, Tower" in _Deus in Machina: Religion, Technology, and the Things in Between_, ed. Jeremy Stolow (New York: Fordham University Press, 2012).
+> *  Carolyn L. Kane and John Durham Peters, "Speaking Into the iPhone: An Interview With John Durham Peters, or, Ghostly Cessation for the Digital Age," _Journal of Communication Inquiry_ (2010).
+> *  Liam Cole Young, "[Cultural Techniques and Logistical Media: Tuning German and Anglo-American Media Studies](http://journal.media-culture.org.au/index.php/mcjournal/article/view/961)," _M/C Journal_ 18, no 2 (2015).
+> *  Ned Rossiter, "[Locative Media as Logistical Media: Situating Infrastructure and the Governance of Labor in Supply-Chain Capitalism](http://nedrossiter.org/?p=380)," in Gerard Goggin and Rowan Wilken, eds., _Locative Media_ (New York: Routledge, 2014).
+   
 Mining and Extraction
 =====================
 *   **June Nash, _We Eat the Mines and the Mines Eat Us: Dependency and Exploitation in Bolivian Tin Mines_ (New York: Columbia University Press, 1979).**
@@ -319,7 +327,9 @@ Logistical Films
 	"The life cycle of plastic beads is traced from their manufacture at a Fuzhou, China, manufacturing facility to their extensive use by revelers at the annual Mardi Gras celebration in New Orleans. Documentary filmmaker David Redmon investigates the low wages and substandard conditions endured by the factory's workers, many of whom are young women. Candid interviews with both the Chinese workers and the Mardi Gras crowd reveal the vast economic and cultural chasm between the two."
 *   **Lonnie Van Brummelen and Siebren De Haan, [_Monument Of Sugar: How to Use Artistic Means to Avoid Barriers_](http://www.brooklynrail.org/2014/02/film/medium-bulk-material-transferred-from-one-country-to-another-lonnie-van-brummelen-siebren-de-haans-monument-of-sugar) (2007); 67 minutes.** // [via](https://twitter.com/GoldsmithLeo)
 	"Upon learning that most of Europe’s beet sugar today is consumed outside its borders, the artists devised a plan that began with purchase of that same sugar at a fraction of its domestic price. From there, they set out for Nigeria, a nation which, despite a climate wholly conducive to sugarcane cultivation, was said to be the largest importer of European sugar. Van Brummelen and de Haan’s idea was to transform that raw material into art and reimport it for an exhibition at the Stedelijk Museum."
-
+*  **Erika Magnusson and Daniel Andersson, [Logistics Art Project](https://logisticsartproject.com/) (2012); 53280 minutes.**
+	"A 37 day-long road movie in the true sense of the meaning. The work is about Time and Consumption. It brings to the fore what is often forgotten in our digital, ostensibly fast-paced world: the slow, physical freight transportation that underpins our economic reality. We wanted to convey it in the most direct manner possible in order to share the journey with others. That´s why we recorded the journey in real time and screen it in real time. 37 days and 37 nights, nonstop."
+	
 Logistical Games
 ================
 *   **[_OpenTTD_](https://www.openttd.org/en/) (2004-)**
@@ -336,6 +346,9 @@ Syllabi and Conferences
 *   **"[Turbulent Circulation / Toward a Critical Logistics](https://turbulentcirculation.wordpress.com/),"** University of Toronto (October 9-11, 2015).
 *   **"[The Arts of Logistics](http://www.artsoflogistics.com/),"** Aylwyn Mae Walsh and Michael Shane Boyle (organizers), Queen Mary University of London (June 3-4, 2016).
 *   **"Unpacking Organization. Cybernetics, Logistics, and the Labour of Circulation,"**  Cent­re for Di­gi­tal Cul­tu­res (CDC), af­fi­lia­ted to Leu­pha­na Uni­ver­si­ty of Lüne­burg (June 19, 2016)
+*   **"Logistics of soft control: SAP, labour, organization,"** Leuphana University, Lüneburg (June 20-21, 2013).
+
+
 
 Projects and Groups
 ===================
