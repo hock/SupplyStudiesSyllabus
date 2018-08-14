@@ -5,37 +5,44 @@ Stage Setting
 *   **Neal Stephenson, "[Mother Earth Mother Board](http://www.wired.com/1996/12/ffglass/)," _Wired_ (December 1996).**
 	"In which the hacker tourist ventures forth across the wide and wondrous meatspace of three continents, acquainting himself with the customs and dialects of the exotic Manhole Villagers of Thailand, the U-Turn Tunnelers of the Nile Delta, the Cable Nomads of Lan tao Island, the Slack Control Wizards of Chelmsford, the Subterranean Ex-Telegraphers of Cornwall, and other previously unknown and unchronicled folk; also, biographical sketches of the two long-dead Supreme Ninja Hacker Mage Lords of global telecommunications, and other material pertaining to the business and technology of Undersea Fiber-Optic Cables, as well as an account of the laying of the longest wire on Earth."
 *   **Michael Wilson, "[Black Hole Base](http://joaap.org/issue9/blackholebase.htm)," _The Journal of Aesthetics and Protest_ (2014).**
+*   **Joe Allen, "[Studying Logistics](https://www.jacobinmag.com/2015/02/logistics-industry-organizing-labor/)," _Jacobin_ (2015).**
+*   **Kenneth Tay, “The Social Network of Stuff: On Media, Logistics and Supply Chains,” Conversation with Matthew Hockenberry and Kenneth Tay, _Public Seminar_ (2018)**
 
-> *  Pietra Rivoli, _The Travels of a T-Shirt in the Global Economy: An Economist Examines the Markets, Power and Politics of the World Trade_ (Hoboken: Wiley, 2009).
+> *  Pietra Rivoli, _The Travels of a T-Shirt in the Global Economy: An Economist Examines the Markets, Power and Politics of the World Trade_ (Hoboken: Wiley, 2005).
 > *  Nicola Twilley, "[What Do Chinese Dumplings Have to Do With Global Warming?](http://www.nytimes.com/2014/07/27/magazine/what-do-chinese-dumplings-have-to-do-with-global-warming.html)," _New York Times_ (2014).
 > *  Beth Kowitt, "[It’s Ikea’s world. We just live in it](http://fortune.com/ikea-world-domination/)," _Fortune_ (2015).
 > *  Dan Williams, "[Christmas in Yiwu](http://www.iamdanw.com/wrote/christmas-in-yiwu/)" (November 19, 2014); and Tim Maughan, "[Yiwu: The Chinese City Where Christmas is Made and Sold](http://www.bbc.com/future/story/20141218-the-hidden-home-of-christmas)," _BBC Future_ (December 14, 2014).
 > *  Tim Maughan, "[The Dystopian Lake Filled by the World's Tech Lust](http://www.bbc.com/future/story/20150402-the-worst-place-on-earth)," _BBC Future_ (April 2, 2015).
 > *  Charmine Chua, "[Logistics: Violence, Empire and Resistance](https://soundcloud.com/dissonanceofthings/logistics-violence-empire-resistance)," Discussion with Laleh Khalili and Deborah Cowen, _The Dissonance of Things_ (May 2016).
+> * Miriam Posner, "See No Evil," _Logic Magazine_ No. 4 ("Scale," 2018).
 
 Logistical Media
 ================
-> *  Judd Case, "Logistical Media: Fragments from Radar’s Prehistory," _Canadian Journal of Communication_ 38 (2013): 379-395.
-> *  John Durham Peters, "Calendar, Clock, Tower" in _Deus in Machina: Religion, Technology, and the Things in Between_, ed. Jeremy Stolow (New York: Fordham University Press, 2012).
-> *  Carolyn L. Kane and John Durham Peters, "Speaking Into the iPhone: An Interview With John Durham Peters, or, Ghostly Cessation for the Digital Age," _Journal of Communication Inquiry_ (2010).
+
+*	**John Durham Peters, "Calendar, Clock, Tower" in _Deus in Machina: Religion, Technology, and the Things in Between_, ed. Jeremy Stolow (New York: Fordham University Press, 2012).**
+* 	**Judd Case, "Logistical Media: Fragments from Radar’s Prehistory," _Canadian Journal of Communication_ 38 (2013): 379-395.**
+
+> *  John Durham Peters and Jeremy Packer, “Becoming Mollusk,” in _Communication Matters: Materialist Approaches to Media, Mobility, and Networks_, eds. Jeremy Packer and Stephen B. Crofts Wiley (New York: Routledge, 2012): 35-53; and also Carolyn L. Kane and John Durham Peters, "Speaking Into the iPhone: An Interview With John Durham Peters, or, Ghostly Cessation for the Digital Age," _Journal of Communication Inquiry_ (2010).
 > *  Liam Cole Young, "[Cultural Techniques and Logistical Media: Tuning German and Anglo-American Media Studies](http://journal.media-culture.org.au/index.php/mcjournal/article/view/961)," _M/C Journal_ 18, no 2 (2015).
 > *  Ned Rossiter, "[Locative Media as Logistical Media: Situating Infrastructure and the Governance of Labor in Supply-Chain Capitalism](http://nedrossiter.org/?p=380)," in Gerard Goggin and Rowan Wilken, eds., _Locative Media_ (New York: Routledge, 2014).
-   
+
 Mining and Extraction
 =====================
 *   **June Nash, _We Eat the Mines and the Mines Eat Us: Dependency and Exploitation in Bolivian Tin Mines_ (New York: Columbia University Press, 1979).**
 	"This book is about the high human cost of producing tin and other minerals. June Nash vividly describes the arduous physical labor and life of Bolivian miners in the physically inhospitable Andean mountains. More than an anthropological account of indigenous miners in far-off Bolivia, the book is a serious rendering of the contemporary social, economic, and political reality at the industrial world periphery."
 *   **Andrew Walsh, "'Hot money' and daring consumption in a northern Malagasy sapphire-mining town," _American Ethnologist_ 30 (2003): 290–305.**
 	"In Ambondromifehy, a sapphire-mining town in northern Madagascar, young men earn and spend a great deal of what some call 'hot money.' Rather than invest their earnings with long-term intentions considered responsible and proper by some around them, they consume 'daringly' by spending money to fulfill immediate desires. Walsh argues that such 'daring consumption' might be understood as the active response of young men who refuse the passive roles allotted them by both the sapphire trade and traditional systems of social organization."
+*   **Matthew Hockenberry, "Inkonvensional Pathways: Soldered Supply Chains From Indonesia's Tin Islands,” in Objects In Motion: Globalizing Technology, 66-78 (Washington DC: Smithsonian Press, 2016).**
 
 > *  Pieter Hugo, _Permanent Error_ (London: Prestel, 2011) and a review by Sean O'Toole, "[Permanent Error](http://www.mahala.co.za/art/permanent-error/)," _Mahala_ (May 2011). // [via](http://www.lievengevaertcentre.be/people/jeroen-verbeeck)
 > *  Alex Golub, _Leviathans at the Gold Mine: Creating Indigenous and Corporate Actors in Papua New Guinea_ (Durham: Duke University Press, 2014).
 > *  James Smith and Jeffrey Mantz, "Do Cellular Phones Dream of Civil War?: The Mystification of Production and the Consequences of Technology Fetishism in the Eastern Congo," in _Inclusion and Exclusion in the Global Arena_ (New York: Routledge, 2006).
+> *  Sandro Mezzadra and Brett Neilson, "[Extraction, logistics, finance: Global crisis and the politics of operations](https://www.radicalphilosophy.com/article/extraction-logistics-finance)," _Radical Philosophy_ 178 (Mar/Apr 2013): 8–18.
 > *  Todd Frankel and Peter Whoriskey, “[The Cobalt Pipeline](https://www.washingtonpost.com/graphics/business/batteries/congo-cobalt-mining-for-lithium-ion-battery/),” “[In Your Phone, In Their Air](https://www.washingtonpost.com/graphics/business/batteries/graphite-mining-pollution-in-china/),” “[Tossed Aside in the White Gold Rush](https://www.washingtonpost.com/graphics/business/batteries/tossed-aside-in-the-lithium-rush/),” _Washington Post_ (September 30; October 2; December 19, 2016).
 > *  Ingrid Burrington, "[Literal American Gold Mine](http://sfaq.us/2015/12/literal-american-gold-mine/)" _San Francisco Art Quarterly_ (December 11, 2015).
 > *  Mats Ingulstad, Andrew Perchard, Espen Storli (eds.), _Tin and Global Capitalism, 1850-2000: A History of “the Devil's Metal”_ (London: Routledge, 2015).
 > *  Stuart Kirsch, _Mining Capitalism: The Relationship between Corporations and Their Critics_ (Berkeley: University of California Press, 2014)
-> *  IIED, Mining, Minerals and Sustainable Development "[Global Report on Artisanal & Small-Scale Mining](http://pubs.iied.org/pdfs/G00723.pdf) (January 2002).
+> *  IIED, Mining, Minerals and Sustainable Development "[Global Report on Artisanal &amp; Small-Scale Mining](http://pubs.iied.org/pdfs/G00723.pdf) (January 2002).
 > *  A. Laurie Palmer, _In the Aura of a Hole: Exploring Sites of Material Extraction_ (New York: Black Dog, 2015).
 > *  Anthony Bebbington and Jeffrey Bury (eds.), _Subterranean Struggles: New Dynamics of Mining, Oil, and Gas in Latin America_ (Austin: University of Texas Press, 2013).
 > *  Nicholas Robins, _Mercury, Mining, and Empire: The Human and Ecological Cost of Colonial Silver Mining in the Andes_ (Bloomington: Indiana University Press, 2011).
@@ -52,10 +59,11 @@ Ivory and Elephants
 
 Production and Assembly
 =======================
-*   **Leslie Chang, _Factory Girls: From Village to City in a Changing China_ (New York: Spiegel & Grau, 2009).**
+*   **Leslie Chang, _Factory Girls: From Village to City in a Changing China_ (New York: Spiegel &amp; Grau, 2009).**
 	"China has 130 million migrant workers—the largest number in history. Factory Girls tells the story of two young women. From the assembly lines of Dongguan, an industrial city in China’s Pearl River Delta, Chang paints a picture of a world where everyone is under thirty; where you can lose your boyfriend when you lose your mobile phone; where English lessons can catapult you into a different social class. She takes us inside a sneaker factory so large that it has its own hospital; karaoke bars that are fronts for prostitution; all before coming back to a farming village for the Chinese New Year, revealing the poverty and idleness of rural life.""
 *   **Aihwa Ong, _Spirits of Resistance and Capitalist Discipline: Factory Women in Malaysia_ (Albany: Suny Press, 1987).**
 	"Why are Malay women workers periodically seized by spirit possession on the shopfloors of modern factories? Ong captures the disruptions, conflicts, and ambivalences as they make the transition from peasant society to industrial production. To discover the meaning that the market economy and wage labor holds, Ong conducted anthropological field work in an agricultural district in Selangor, Peninsular Malaysia, undergoing rapid proletarianization. Weaving together history, ethnography, and quantitative analysis, she shows how the diverging roles of young men and women are increasingly channelled toward conformity with corporate culture and capitalist discipline."
+*   **Matthew Hockenberry, "Material Epistemologies of the (Mobile) Telephone,” _Anthropology Quarterly_ 91, no. 2 (Spring 2018), special issue on the mobile phone.**
 
 > *  Seth Perlow, "On production for digital culture: iPhone Girl, electronics assembly, and the material forms of aspiration," _Convergence_ 17, no. 3 (2011): 245-269.
 > *  Pun Ngai, _Made in China: Women Factory Workers in a Global Workplace_ (Durham: Duke University Press, 2005); with Jenny Chan, "[Suicide as Protest for the New Generation of Chinese Migrant Workers: Foxconn, Global Capital, and the State](http://apjjf.org/-Jenny-Chan/3408/article.html)," _The Asia-Pacific Journal_ 8, iss. 37, no. 2 (September 13, 2010); and with Mark Selden, "The politics of global production: Apple, Foxconn and China's new working class," _New Technology, Work and Employment_ 28, no. 2 (July 2013): 100–115.
@@ -70,13 +78,6 @@ Apple, Foxconn, and Shenzhen
 > *  Tim Maughan, "[The Changing Face of Shenzhen, the World's Gadget Factory](http://motherboard.vice.com/read/beyond-foxconn-inside-shenzhen-the-worlds-gadget-factory)," _Motherboard_ (August 19, 2015).
 > *  Bunnie Huang and Wired, "[Shenzhen: The Silicon Valley of Hardware](https://www.youtube.com/watch?v=hp6F_ApUq-c)" _Wired, Future Cities_ (June 7, 2016); Nicole Scott and Mobilegeeks, "[Shenzhen Smartphone Market (Walking through the Yuanwang Digital Mall)](https://www.youtube.com/watch?v=G-ltHoD0j1Q)," _Mobilegeeks_ (May 11, 2015).
 
-Migration and Mobility
----- 
-> *  Anja Kanngieser, "Tracking and Tracing: Geographies of Logistical Governance and Labouring Bodies," _Environment and Planning D: Society and Space_ 31, no. 4 (August 2013): 594-610.
-> *  Hairong Yan, _New Masters, New Servants: Migration, Development, and Women Workers in China_ (Durham: Duke University Press, 2008).
-> *  T. J. Demos, _The Migrant Image: The Art and Politics of Documentary during Global Crisis_ (Durham: Duke University Press, 2013). // [via](https://twitter.com/immanenceftw).
-> *  Kwame Appiah, "[The Case for Contamination](http://www.nytimes.com/2006/01/01/magazine/01cosmopolitan.html)," _New York Times Magazine_ (January 1, 2006).
-
 Modes of Production
 ---- 
 > *  James P. Womack, Daniel T. Jones, Daniel Roos, _The Machine That Changed the World: The Story of Lean Production_ (New York: Free Press, 2007).
@@ -87,14 +88,16 @@ Modes of Production
 > *  Brian Ashton, "[The Factory Without Walls](http://www.metamute.org/editorial/articles/factory-without-walls)," \_Mute\_ (September 2006).
 > *  David E. Nye, _America's Assembly Line_ (Cambridge: MIT Press, 2013).
  	 
-Shipping and Distribution
+Shipping, Storage, Distribution
 =========================
 *   **Deborah Cowen, _The Deadly Life of Logistics: Mapping Violence in Global Trade_ (Minneapolis: University of Minnesota Press, 2014).**
 	"In The Deadly Life of Logistics, Cowen traces the art and science of logistics from the battlefield to the boardroom and back. Focusing on choke points such as national borders, zones of piracy, blockades, and cities, she tracks contemporary efforts to keep goods circulating and brings to light the collective violence these efforts produce. All the while investigating how the military origins of logistics played a critical role in the making of the global economic order-—not simply the globalization of production, but the invention of the supply chain and the reorganization of national economies into transnational systems."
 *   **Edna Bonacich, Jake B. Wilson, _Getting the Goods: Ports, Labor, and the Logistics Revolution_ (Ithaca: Cornell University Press, 2008).**
 	"Edna Bonacich and Jake B. Wilson look at the ports of Los Angeles and Long Beach to examine the impact of the logistics on workers in distribution. Built around the invention of shipping containers and communications technology, the logistics 'revolution' has enabled retailers like Walmart and Target to sell cheap consumer products made using low-wage labor in developing countries. Shipped through an efficient, low-cost, intermodal freight system, containers move from factories in Asia to distribution centers across the United States without ever being opened. Bonacich and Wilson follow these flows, exploring the importers, container shipping companies, the ports, railroad and trucking companies, and warehouses."
 
-> *  Jesse LeCavalier, _The Rule of Logistics: Walmart and the Architecture of Fulfillment_ (Minneapolis: Minnesota Press, 2016).
+> *  Jesse LeCavalier, _The Rule of Logistics: Walmart and the Architecture of Fulfillment_ (Minneapolis: Minnesota Press, 2016); and also "[All Those Numbers: Logistics, territory and Walmart](https://placesjournal.org/article/all-those-numbers-logistics-territory-and-walmart/)," _Places Journal_ (May 2010).
+> *  Dara Orenstein, "Warehouses on wheels," _Society and Space_ 36, no. 4 (2018).
+> *  Alexis Madrigal, _[Containers Series](https://www.flexport.com/blog/alexis-madrigal-containers-podcast/)_ (Doral, FL: Fusion Media Group, 2017).
 > *  Joshua Davis, "[High Tech Cowboys of the Deep Seas](http://www.wired.com/2008/02/ff-seacowboys/)," _Wired_ (February 25, 2008).
 > *  Rose George, _Ninety Percent of Everything: Inside Shipping, the Invisible Industry That Puts Clothes on Your Back, Gas in Your Car, and Food on Your Plate_ (New York: Metropolitan Books, 2013).
 > *  Thomas Birtchnell, Satya Savitzky, John Urry (eds), _Cargomobilities: Moving Materials in a Global Age_ (New York: Routledge, 2015).
@@ -109,43 +112,53 @@ Amazon
 The Box
 ---- 
 > *  Marc Levinson, _The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger_ (Princeton: Princeton University Press, 2006).
-> *  Richard Pollak, _The Colombo Bay_ (New York: Simon & Schuster, 2004).
+> *  Richard Pollak, _The Colombo Bay_ (New York: Simon &amp; Schuster, 2004).
 > *  Craig Martin, _Shipping Container_ (London: Bloomsbury "Object Lessons" Series, 2016).
 > *  Alexander Klose, _The Container Principle: How a Box Changes the Way We Think_, Charles Marcrum (trans) (Cambridge: MIT Press, 2015).
 > *  Michael Shane Boyle, "[Container Aesthetics: The Infrastructural Politics of Shunts The Boy Who Climbed Out of His Face](https://www.academia.edu/24512297/Container_Aesthetics_The_Infrastructural_Politics_of_Shunts_The_Boy_Who_Climbed_Out_of_His_Face)," _Theatre Journal_ 68, no. 1 (March 2016): 57-77.
 > * Tim Hwang and Craid Cannon, _The Container Guide_ (San Francisco: Infrastructure Observatory Press, 2015).
 > *  Allan Sekula, _Fish Story_, (Düsseldorf: Richter Verlag, 2002).
 
-Consumption
-===========
-> *  Dara O'Rourke, _Shopping for Good_ (Cambridge: MIT Press, 2012).
-
 Critical Perspectives
 =====================
 *   **"Logistics of Power" in _Viewpoint Magazine_, no. 4: "The State," particularly: Alberto Toscano, "[Lineaments of the Logistical State](https://viewpointmag.com/2014/09/28/lineaments-of-the-logistical-state/)"; Deborah Cowen, "[Disrupting Distribution: Subversion, the Social Factory, and the 'State' of Supply Chains](https://viewpointmag.com/2014/10/29/disrupting-distribution-subversion-the-social-factory-and-the-state-of-supply-chains/)"; and Sergio Bologna, "[Inside Logistics: Organization, Work, Distinctions](https://viewpointmag.com/2014/10/29/inside-logistics-organization-work-distinctions/)" (September-October 2014).**
 	As Toscano remarks, "it has long been noted that the apparatuses of control and accumulation that structure the social and material reality of circulation – transport, the energy industry and, after World War Two, “business logistics” – though born to break the bargaining power of transport workers and accumulate profits by annihilating space and depressing wages, have also, especially through their energetic dimensions, created dynamic arenas for class struggle.
+*   **Charmaine Chua, Martin Danyluk, Deborah Cowen, Laleh Khalili, "[Turbulent Circulation: Building a Critical Engagement with Logistics](http://societyandspace.org/2018/08/07/volume-36-number-4/)," Special Issue of _Society and Space_ 36, no. 4 (August 2018); especially Martin Danyluk, "Capital’s logistical fix: Accumulation, globalization, and the survival of capitalism"**
+	"Since the mid-20th century, logistics has evolved into a wide-ranging science of circulation involved in planning and managing flows of innumerable kinds. In this introductory essay, we take stock of the ascendancy and proliferation of logistics, proposing a critical engagement with the field. We argue that logistics is not limited to the management of supply chains, military or corporate. Rather, it is better understood as a calculative logic and spatial practice of circulation that is at the fore of the reorganization of capitalism and war. Viewed from this perspective, the rise of logistics has transformed not only the physical movement of materials but also the very rationality by which space is organized. It has remade economic and military space according to a universalizing logic of abstract flow, exacerbating existing patterns of uneven geographical development. Drawing on the articles that make up this themed issue, we propose that a critical approach to logistics is characterized by three core commitments: (1) a rejection of the field’s self-depiction as an apolitical science of management, along with a commitment to highlighting the relations of power and acts of violence that underpin it; (2) an interest in exposing the flaws, irrationalities, and vulnerabilities of logistical regimes; and (3) an orientation toward contestation and struggle within logistical networks."
 *   **Fredric Jameson, "Utopia as Replication" in _Valences of the Dialectic_ (New York: Verso, 2009).**
-	"This is the point at which I wish to propose a model for Utopian analysis that might be taken as a kind of synthesis of these two subjective and objective approaches. I want to develop two examples of this kind of interpretation, which will be what I want to identify, not as the Utopian method as such, but at least as one possible method among others: and these examples will draw on history and theory respectively. My theoretical example will be drawn from the now burgeoning field of manifestos for a politics of the “multitude”; my historical example will however propose a new institutional candidate for the function of Utopian allegory and that is the phenomenon called Wal-Mart."
-*	**Stefano Harney and Fred Moten, _The Undercommons: Fugitive Planning & Black Study_, especially 	"Fantasy in the Hold" (Brooklyn: Autonomedia, 2013).**
+*	**Stefano Harney and Fred Moten, _The Undercommons: Fugitive Planning &amp; Black Study_, especially 	"Fantasy in the Hold" (Brooklyn: Autonomedia, 2013).**
 	 
 > *  Alberto Toscano and Jeff Kinkle, Cartographies of the Absolute (London: Zero Books, 2015).
-> *  Anna Tsing, "Supply Chains and the Human Condition," _Rethinking Marxism: A Journal of Economics, Culture and Society_ 21, no. 2 (2009).
+> *  Anna Tsing, "Supply Chains and the Human Condition," _Rethinking Marxism: A Journal of Economics, Culture and Society_ 21, no. 2 (2009); _The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins_ (Princeton: Princeton University Press, 2015).
 > *  Jasper Bernes, "[Logistics, Counterlogistics, and the Communist Propspect](https://endnotes.org.uk/en/jasper-bernes-logistics-counterlogistics-and-the-communist-prospect)," _Endnotes 3: Gender, Race, Class and Other Misfortunes_ (September 2013).
 > *  Brett Neilson, "[Beyond Kulturkritik: Along the Supply Chain of Contemporary Capitalism](http://www.cultureunbound.ep.liu.se/v6/a04/cu14v6a04.pdf)," _Culture Unbound_ 6 (2014): 77–93; and "Five Theses on Understanding Logistics as Power" _Distinktion: Scandinavian Journal of Social Theory_ 13, no. 3 (December 2012) 322–339.
 > *  Martin Heidegger, _The Question Concerning Technology_ (New York: Garland, 1977).
 
 Activism and Resistance
----- 
+======================= 
+*	**Jake Alimahomed-Wilson and Immanuel Ness, eds., _Choke Points: Logistics Workers Disrupting the Global Supply Chain_ (Chicago: Chicago University Press, 2018).**
+	"The global economy seems indomitable. Goods travel all over the globe, supplying just-in-time retail stocks, keeping consumers satisfied and businesses profitable. But there are vulnerabilities, and Choke Points reveals them—and the ways that workers are finding ways to make use of the power that those choke points afford them. Exploring a number of case studies around the world, this book uncovers a little-known network of resistance by logistics workers worldwide who are determined to contest their exploitation by the forces of global capital. Through close accounts of wildcat strikes, roadblocks, and boycotts, from South China to Southern California, the contributors build a picture of a movement that flies under the radar, but carries the potential to force dramatic change."
+	
 > *  Charmaine Chua, "[Logistics, Capitalist Circulation, Chokepoints](https://thedisorderofthings.com/2014/09/09/logistics-capitalist-circulation-chokepoints/)," _The Disorder of Things_ (September 9, 2014).
 > *  "[Disaster Communism III: Logistics, Repurposing, Bricolage](https://libcom.org/blog/disaster-communism-part-3-logistics-repurposing-bricolage-22052014)," _Libcom_ (May 22, 2014).
 > *  "[Choke Points: Mapping an Anticapitalist Counter-logistics in California](https://libcom.org/library/choke-points-mapping-anticapitalist-counter-logistics-california)," _Libcom_ (July 21, 2014).
 > *  Seattle N30 Logistical Crew, "Seattle Logistics Zine" (1999).
+> *  Alberto Toscano. "Logistics and opposition," _Mute_ (August 2011).
+editorial/articles/logistics-and-opposition (accessed 25 May 2016).
 > *  Brian Ashton, "[Logistics Explained](http://www.labournet.net/docks2/0703/logistics1.htm)," _Labournet_ (March 25, 2007).
 > *  Niccolò Cuppini, Mattia Frapporti, Floriano Milesi, Luca Padova, Maurilio Pirone, "[Logistics and Crisis: The Supply Chain System in the Po Valley Region](http://teachingthecrisis.net/logistics-and-crisis-the-supply-chain-system-in-the-po-valley-region-2/)," for _Teaching the Crisis – Geographies, Methodologies, Perspectives_ (2013).
 > *  Laleh Khalili, "[The Logistics of Counterinsurgency](https://thegamming.org/2016/05/10/the-logistics-of-counterinsurgency/)," Georgetown University, Center for Contemporary Arab Studies (May 2006).
 > *  Sarah-Joyce Battersby, "[Inside Toronto's Black Lives Matter Camp](https://www.thestar.com/news/gta/2016/04/03/inside-torontos-black-lives-matter-camp.html)," _Toronto Star_ (April 3, 2016).
+> *  Edna Bonacich, "Labor and the global logistics revolution," in _Critical Globalization Studies_ (New York: Routledge, 2005), 359–368.
 > *  Shiri Pasternak, "[The economics of insurgency: Thoughts on Idle No More and critical infrastructure](http://www.shiripasternak.com/the-economics-of-insurgency-thoughts-on-idle-no-more-and-critical-infrastructure/)," _Rabble_ (January, 2013).
-> *  Anna Curcio, "[Practicing militant inquiry: Composition, strike and betting in the logistics workers struggles in Italy](http://www.ephemerajournal.org/contribution/practicing-militant-inquiry-composition-strike-and-betting-logistics-workers-struggles)," _ephemera: theory & politics in organization_ 14, no. 3 (2014). // [via](http://www.lievengevaertcentre.be/people/jeroen-verbeeck)
+> *  Anna Curcio, "[Practicing militant inquiry: Composition, strike and betting in the logistics workers struggles in Italy](http://www.ephemerajournal.org/contribution/practicing-militant-inquiry-composition-strike-and-betting-logistics-workers-struggles)," _ephemera: theory &amp; politics in organization_ 14, no. 3 (2014). // [via](http://www.lievengevaertcentre.be/people/jeroen-verbeeck)
+
+Migration and Mobility
+---- 
+> *  Anja Kanngieser, "Tracking and Tracing: Geographies of Logistical Governance and Labouring Bodies," _Environment and Planning D: Society and Space_ 31, no. 4 (August 2013): 594-610.
+> *  Hairong Yan, _New Masters, New Servants: Migration, Development, and Women Workers in China_ (Durham: Duke University Press, 2008).
+> *  T. J. Demos, _The Migrant Image: The Art and Politics of Documentary during Global Crisis_ (Durham: Duke University Press, 2013). // [via](https://twitter.com/immanenceftw).
+> *  Kwame Appiah, "[The Case for Contamination](http://www.nytimes.com/2006/01/01/magazine/01cosmopolitan.html)," _New York Times Magazine_ (January 1, 2006).
 
 History and Historiography
 ==========================
@@ -168,6 +181,7 @@ Logistics and War
 > *  John A. Lynn (ed), _Feeding Mars: Logistics In Western Warfare From The Middle Ages To The Present_ (Boulder: Westview Press, 1994).
 > *  Le Baron de Jomini, _Précis de l'Art de la Guerre: Des Principales Combinaisons de la Stratégie, de la Grande Tactique et de la Politique Militaire_ (Brussels: Meline, Cans et Copagnie, 1838); Translated as _[The Art of War](http://www.gutenberg.org/files/13549/13549-h/13549-h.htm)_, G.H. Mendell and W.P. Craighill (trans) (Philadelphia: J.B. Lippincott, 1862); see also _[Introductory Material to Summary of the Art of War](http://usacac.army.mil/cac2/cgsc/carl/download/csipubs/jomini.pdf)_ (1854; GPO, Combat Studies Institute).
 > *  Manuel De Landa, _War in the Age of Intelligent Machines_ (New York: Zone Books, 1991).
+> *  Paul Virilio, _War and Cinema: The Logistics of Perception_ (New York: Verso, 1989).
 > *  Derek Gregory, "[Supplying war in Afghanistan: the frictions of distance](https://www.opendemocracy.net/derek-gregory/supplying-war-in-afghanistan-frictions-of-distance)," _Open Democracy_ (June 11, 2012).
 > * Thomas Nail, _Theory of the Border_ (Oxford: Oxford University Press, 2016). 
 
@@ -177,16 +191,16 @@ Thing Narratives
 > *  Emily Green, "Memoirs of a Musical Object, Supposedly Written by Itself: It–Narrative and Eighteenth–Century Marketing," _Current Musicology_ 95 (2013).
 > *  Annie Leonard, "[The Story of Stuff](http://storyofstuff.org/movies/story-of-stuff/)," Footnote and Annotated Script, _Story of Stuff Project_ (2007); and also "[The Story of Bottled Water](http://storyofstuff.org/movies/story-of-bottled-water/)" (2010); "[The Story of Electronics](http://storyofstuff.org/movies/story-of-electronics/)" (2011).
 > *  Mark Blackwell, "The It-Narrative in Eighteenth-Century England: Animals and Objects in Circulation," _Literature Compass_ 1, no. 1 (2004).
-> *  Christina Lupton, Heather Keenleyside, Liz Bellamy, Mark Blackwell (eds), _British It-Narratives, 1750-1830_ (London: Pickering & Chatto, 2012).
+> *  Christina Lupton, Heather Keenleyside, Liz Bellamy, Mark Blackwell (eds), _British It-Narratives, 1750-1830_ (London: Pickering &amp; Chatto, 2012).
 > *  Bruce Robbins, "Commodity Histories," PMLA 120, no. 2 (2005).
 > *  Howard Morland, _The Secret That Exploded_ (New York: Random House, 1981).
 
 Ethnographies of Circulation
-============================
+----
 > *  Brenda Chalfin, _Shea Butter Republic: State Power, Global Markets and the Making of an Indigenous Commodity_ (New York: Routledge, 2004). // [via](https://twitter.com/josef_wieland)
 > *  Gabrielle Hecht, _Being Nuclear: Africans and the Global Uranium Trade_ (Cambridge: MIT Press, 2012).
 
-Corporations and Responsibilities
+Corporations and Capitalism
 =================================
 *   **Pietra Rivoli and Sandra Waddock, “‘First They Ignore You…’: The Time-Context Dynamic and Corporate Responsibility,” _California Management Review_ 53, no. 2 (Winter 2011): 87-104.**
 	"Pietra Rivoli and Sandra Waddock acknowledge that corporate social responsibility (CSR) discussions often fall prey to a logical trap. If some socially desirable activity is profitable, then it is best described as “intelligent operation of the business.” When private profits and public welfare are aligned, CSR is irrelevant. If the socially desirable activity is not profitable, then companies will not voluntarily undertake it unless required to do so by law or regulation. The concept of CSR is “intensely confused” because in both the above cases it is not a useful construct; CSR is either irrelevant or ineffective."
@@ -203,7 +217,7 @@ Supplier Responsibilities
 > *  Sydney Schanberg, "On the playgrounds of America, Every Kid's Goal is to Score: In Pakistan, Where children stitch soccer balls for Six Cents an hour, the goals is to Survive," _Life Magazine_ (June 1996): 38-48.
 > *  Richard Locke, "[The Promise and Perils of Globalization: The Case of Nike](https://ipc.mit.edu/sites/default/files/documents/02-007.pdf)," Industrial Performance Center, MIT, Working Paper (July 2002).
 > *  Richard Locke, Fei Qin, and Alberto Brause, "Does Monitoring Improve Labor Standards? Lessons from Nike," Corporate Social Responsibility Initiative, Working Paper no. 24 (Cambridge: John F. Kennedy School of Government, Harvard University, 2006).
-> *  Dara O'Rourke, "[Smoke From a Hired Gun: A Critique of Nike's Labor and Environmental Auditing in Vietnam as performed by Ernst & Young](http://www.corpwatch.org/article.php?id=966)," _CorpWatch_ (November 1997).
+> *  Dara O'Rourke, "[Smoke From a Hired Gun: A Critique of Nike's Labor and Environmental Auditing in Vietnam as performed by Ernst &amp; Young](http://www.corpwatch.org/article.php?id=966)," _CorpWatch_ (November 1997).
 
 New Materialisms and Theories of Things
 =======================================
@@ -220,7 +234,7 @@ New Materialisms and Theories of Things
 
 Computational Production
 ========================
-*   **Ned Rossiter, "[Locative Media as Logistical Media: Situating Infrastructure and the Governance of Labor in Supply-Chain Capitalism](http://nedrossiter.org/?p=380)," in Gerard Goggin and Rowan Wilken, eds., _Locative Media_ (New York: Routledge, 2014) and also "[Materialities of Software: Logistics, Labour, Infrastructure](http://nedrossiter.org/?p=387)," in P. L. Arthur & K. Bode (Eds.), _Advancing Digital Humanities: Research, Methods, Theories_ (Berlin: Springer, 2014).**
+*   **Ned Rossiter, "[Locative Media as Logistical Media: Situating Infrastructure and the Governance of Labor in Supply-Chain Capitalism](http://nedrossiter.org/?p=380)," in Gerard Goggin and Rowan Wilken, eds., _Locative Media_ (New York: Routledge, 2014) and also "[Materialities of Software: Logistics, Labour, Infrastructure](http://nedrossiter.org/?p=387)," in P. L. Arthur &amp; K. Bode (Eds.), _Advancing Digital Humanities: Research, Methods, Theories_ (Berlin: Springer, 2014).**
 	"This work recasts locative media as logistical media. It is interested in how logistical infrastructure is made soft through ERP systems designed to govern the global movement of people, finance and things. Questions of securitization, control, coordination, algorithmic architectures, protocols and parameters are among those relevant to a theory of logistical media--bringing logistics, software and infrastructure together in order to elaborate the conceptual and empirical qualities of what John Durham Peters elusively terms 'logistical media.'"
 *   **Benjamin Bratton, _The Stack: On Software and Sovereignty_ (Cambridge: MIT Press, 2015).**    
 
@@ -231,19 +245,24 @@ Computational Production
 > *  Karl E. Kurbel, _Enterprise Resource Planning and Supply Chain Management: Functions, Business Processes and Software for Manufacturing Companies_ (Berlin: Springer, Progress in IS, 2013).
 
 Digital Supply Chains
-=====================
+----
 > *  "TorReaper," "[​ISIS Cyber Supply Chain](https://criticl.me/post/%E2%80%8Bisis-cyber-supply-chain-2568)," _Criticl_ (2015) and Anthony Cuthbertson, "[Anonymous #OpISIS: CloudFlare refuses to block service to pro-ISIS websites](http://www.ibtimes.co.uk/anonymous-opisis-cloudflare-refuses-block-service-pro-isis-websites-1495758)," _International Business Times_ (April 10, 2015).
 > *  Bobbie Johnson, Charles Arthur, and Josh Halliday, "[Libyan domain shutdown no threat, insists bit.ly](https://www.theguardian.com/technology/2010/oct/08/bitly-libya)," _The Guardian_ (October 9, 2010) and Bobbie Johnson, "[Where in the world are those shorteners taking you?](https://www.theguardian.com/technology/2010/oct/09/link-shorteners-mapped)," _The Guardian_ (October 9, 2010).
 > *  David Meyer, "[The dark side of .io: How the U.K. is making web domain profits from a shady Cold War land deal](https://gigaom.com/2014/06/30/the-dark-side-of-io-how-the-u-k-is-making-web-domain-profits-from-a-shady-cold-war-land-deal/)," _Gigaom_ (June 30, 2014).
 > *  Rosie Cima, "[The Rise and Fall of .Ly](http://priceonomics.com/the-rise-and-fall-of-ly/)," Priceonomics (October 23, 2015).
 > *  Olivia Solon, "[Activists Target Yahoo Over Links to Ivory Trade](http://www.wired.com/2016/01/activists-target-yahoo-over-links-to-ivory-trade/)," _Wired_ (January 25, 2016).
 
-Infrastructures & Spaces
+Infrastructures &amp; Spaces
 ========================
+*  **Clare Lyster, _Learning from Logistics: How Networks Change Our Cities_ (Berlin: Walter de Gruyter, 2016).**
+	"In the 19th century railroads and canals provided both structure and motor for city development. This role has been taken over today by the global flow of data and products, as the author argues. Flow of material and communication is the DNA of contemporary environments. This development has enormous and partially unfathomable implications for our city fabric. Logistics networks and their complex structure increasingly bear upon many urban spheres. Counter trends to the ubiquitous internet retail trade – to name one of the most palpable phenomena – are gaining momentum as well, exemplified by the criticism of labor conditions in e-commerce and the trend to buy regional products from local stores. Lyster describes the current development and its impact on architecture, landscape architecture and urbanism: Aspects such as today’s hypermobility of both products and people have repercussions in design work and create new paradigms for architecture and urban design. Concepts for the integration of these new issues are introduced by a number of exemplary urban design projects."
+	
 > *  Shannon Mattern, "[Infrastructural Tourism](https://placesjournal.org/article/infrastructural-tourism/)," _Places Journal_ (July 2013).
 > *  Nicole Starosielski, "[Signal Tracks](http://median.newmediacaucus.org/art-infrastructures-hardware/signal-tracks/),” _Media-N: Journal of the New Media Caucus_ 10, no. 1 (Spring 2014); and Lisa Parks and Nicole Starosielski, eds. _Signal Traffic: Critical Studies of Media Infrastructures_ (Champaign: University of Illinois Press, 2015).
-> *  Keller Easterling, _Organization Space: Landscapes, Highways, and Houses in America_ (Cambridge: MIT Press, 1999); _Enduring Innocence: Global Architecture and its Political Masquerades_ (Cambridge: MIT Press, 2005); and _Extrastatecraft: The Power of Infrastructure Space_ (New York: Verso, 2014).
+> *  Keller Easterling, _Organization Space: Landscapes, Highways, and Houses in America_ (Cambridge: MIT Press, 1999); _Enduring Innocence: Global Architecture and its Political Masquerades_ (Cambridge: MIT Press, 2005); _Extrastatecraft: The Power of Infrastructure Space_ (New York: Verso, 2014); and "Interchange and container: The new orgman," _Perspecta_ 30 (1999): 112–121.
 > *  Brett Neilson and Ned Rossiter, "[The Logistical City](http://nedrossiter.org/?p=270)," in _Transit Labour: Circuits, Regions, Borders_ no. 3 (August 2011)
+> * Brett Neilson, Ned Rossiter, and Soenke Zehle, "From flows of culture to the circuits of logistics: Borders,
+regions, labour in transit," _Transit Labour_ 2 (2010): 1–4.
 > *  Dara Orenstein, "Foreign-­Trade­ Zones­ and ­the ­Cultural ­Logic of ­Frictionless ­Production," _Radical History Review_ 109 (Winter 2011).
 > *  "[The FTZ as Device](http://southwestcorridornorthwestpassage.org/the-ftz-as-device/)," _Southwest Corridor Northwest Passage_ (2014)
 > *  Rozalinda Borcila, "[Riding the Zone](http://midwestcompass.org/wp-content/uploads/2013/10/Borcila_Riding-the-zone.pdf)," _Deep Routes: The Midwest in all Directions_ (2015).
@@ -260,8 +279,8 @@ Histories of Infrastructures
 
 Deviant Globalization
 =====================
-*   **Nils Gilman, Steven Weber, & Jesse Goldhammer, _Deviant Globalization_ (London: Continuum, 2011).**
-*   **Nicolas Maigret & Maria Roszkowska (eds.), _[The Pirate Book](http://thepiratebook.net/category/order-download/)_ (Ljubljana: Aksioma, 2015).**
+*   **Nils Gilman, Steven Weber, &amp; Jesse Goldhammer, _Deviant Globalization_ (London: Continuum, 2011).**
+*   **Nicolas Maigret &amp; Maria Roszkowska (eds.), _[The Pirate Book](http://thepiratebook.net/category/order-download/)_ (Ljubljana: Aksioma, 2015).**
 
 > *  Digital Citizens Alliance, "[Busted, But Not Broken: The State of Silk Road and the Darknet Marketplaces](https://media.gractions.com/314A5A5A9ABBBBC5E3BD824CF47C46EF4B9D3A76/5f8d4168-c36a-4f78-b048-f5d48b18dc0a.pdf)" (April 2014).
 > *  !MEDIENGRUPPE BITNIK, "[Random Darknet Shopper](https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/r/)" (2014) and Daniel Rivero, "[Robots are starting to break the law and nobody knows what to do about it](http://fusion.net/story/35883/robots-are-starting-to-break-the-law-and-nobody-knows-what-to-do-about-it/)," _Fusion_ (December 2014).
@@ -271,8 +290,20 @@ Deviant Globalization
 > *  Andy Greenberg, "[Waiting for Dark: Inside Two Anarchists’ Quest for Untraceable Money](https://www.wired.com/2014/07/inside-dark-wallet/)," _Wired_ (July 11, 2014).
 > *  Luca Rastello, _I Am the Market: How to Smuggle Cocaine by the Ton, in Five Easy Lessons_, Jonathan Hunt (trans) (London: Granta, 2010).
 
+Consumption
+===========
+> *  Dara O'Rourke, _Shopping for Good_ (Cambridge: MIT Press, 2012).
+
+Supply Chain Management
+=======================
+> *  Edward Frazelle, _Supply Chain Strategy_ (New York: McGraw-Hill, 2001).
+> *  Graham Sharman, "The Rediscovery of Logistics," _Harvard Business Review_ 62, no. 5 (1984): 71–79.
+
+Logistical Regulation
+=====================
+
 Reports and Representations
-===========================
+----
 > *  Global Witness, "[Faced With a Gun, What Can You Do?](https://www.globalwitness.org/sv/campaigns/democratic-republic-congo/faced-gun-what-can-you-do/)" (July 31, 2009).
 > *  Global Witness, "[A Rough Trade: The Role of Companies and Governments in the Angolan Conflict](https://www.globalwitness.org/en/archive/rough-trade/)" (December 1998).
 > *  Greenpeace, "[Poisoning the Pearl: An Investigation into Industrial Water Pollution in the Pearl River Delta](http://www.greenpeace.org/international/en/publications/reports/poisoning-the-pearl/)" (January 2010).
@@ -289,9 +320,9 @@ Reports and Representations
 > *  The Institute of Contemporary Observation, FinnWatch, Finnish RCA, "[Day and Night at the Factory: Working Conditions of Temporary Workers in the Factories of Nokia and its Suppliers in Southern China](http://www.corporatejustice.org/IMG/pdf/en_kiina-raportti.pdf)" (March 2005).
 > *  United States Government Accountability Office, Report to the Committee on Aamed Services, US Senate, DOD Supply Chain, "[Suspect Counterfeit Electronic Parts Can Be Found on Internet Purchasing Platforms](http://gao.gov/products/GAO-12-375)," GAO-12-375 (February 2012).
 > *  World Economy, Ecology, and Development et al., "[The Dark Side of Cyberspace: Inside the Sweatshops of China's Computer Hardware Production](http://electronicswatch.org/the-dark-side-of-cyberspace_3378.pdf)" (December 2008).
-> 	 
-Law and Regulation
-==================
+ 	 
+Law and Orders
+----
 *   **_The Kimberley Process Certification Scheme_, "[KPCS Core Document](http://www.kimberleyprocess.com/en/kpcs-core-document)," and H.R.1584: "Clean Diamond Trade Act" (2003).**
 	"The Kimberley Process started when Southern African diamond-producing states met in Kimberley, South Africa, in May 2000, to discuss ways to stop the trade in ‘conflict diamonds' and ensure that diamond purchases were not financing violence by rebel movements and their allies seeking to undermine legitimate governments."
 *   **_Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010_, "[Conflict Minerals Rule](http://www.sec.gov/rules/final/2012/34-67716.pdf)."**
@@ -305,14 +336,17 @@ Law and Regulation
 > *  "[California Transparency in Supply Chains Act of 2010](http://www.state.gov/documents/organization/164934.pdf)" and the corresponding [resource guide](https://oag.ca.gov/sites/all/files/agweb/pdfs/sb657/resource-guide.pdf) published in 2015.
 > *  H.R.4842: "[Business Supply Chain Transparency on Trafficking and Slavery Act of 2014](https://www.congress.gov/bill/113th-congress/house-bill/4842)" (Introduced 2014).
 
-Supply Chain Management
-=======================
-> *  Edward Frazelle, _Supply Chain Strategy_ (New York: McGraw-Hill, 2001).
+
+Logistical Media
+================
 
 Logistical Films
-================
+----
 *   **Allan Sekula, _[The Forgotten Space](http://www.theforgottenspace.net/static/home.html)_ (2010); 112 minutes.**
 	"The Forgotten Space follows container cargo aboard ships, barges, trains and trucks, listening to workers, engineers, planners, politicians, and those marginalized by the global transport system. We visit displaced farmers and villagers in Holland and Belgium, underpaid truck drivers in Los Angeles, seafarers aboard mega-ships shuttling between Asia and Europe, and factory workers in China, whose low wages are the fragile key to the whole puzzle. And in Bilbao, we discover the most sophisticated expression of the belief that the maritime economy, and the sea itself, is somehow obsolete."
+	
+> * See also: Alberto Toscano, "[The Mirror of Circulation: Allan Sekula and the Logistical Image](http://societyandspace.org/2018/07/30/the-mirror-of-circulation-allan-sekula-and-the-logistical-image/)" _Society and Space_ (July 2018).
+
 *   **Lucy Raven, _[China Town](http://lucyraven.com/China-Town)_ (2009); 51 minutes.**
 	"China Town traces copper mining and production from an open pit mine in Nevada to a smelter in China, where the semi-processed ore is sent to be smelted and refined. Considering what it actually means to “be wired” and in turn, to be connected, in today’s global economic system, the video follows the detailed production process that transforms raw ore into copper wire—in this case, the literal digging of a hole to China—and the generation of waste and of power that grows in both countries as byproduct."
 *   **Steve McQueen, _[Gravesend](http://www.renaissancesociety.org/exhibitions/455/steve-mcqueen-gravesend/)_ (2007); 17 minutes.**
@@ -329,33 +363,41 @@ Logistical Films
 	"Upon learning that most of Europe’s beet sugar today is consumed outside its borders, the artists devised a plan that began with purchase of that same sugar at a fraction of its domestic price. From there, they set out for Nigeria, a nation which, despite a climate wholly conducive to sugarcane cultivation, was said to be the largest importer of European sugar. Van Brummelen and de Haan’s idea was to transform that raw material into art and reimport it for an exhibition at the Stedelijk Museum."
 *  **Erika Magnusson and Daniel Andersson, [Logistics Art Project](https://logisticsartproject.com/) (2012); 53280 minutes.**
 	"A 37 day-long road movie in the true sense of the meaning. The work is about Time and Consumption. It brings to the fore what is often forgotten in our digital, ostensibly fast-paced world: the slow, physical freight transportation that underpins our economic reality. We wanted to convey it in the most direct manner possible in order to share the journey with others. That´s why we recorded the journey in real time and screen it in real time. 37 days and 37 nights, nonstop."
-	
+
 Logistical Games
-================
+----
 *   **[_OpenTTD_](https://www.openttd.org/en/) (2004-)**
 	"OpenTTD is a business simulation game in which players try to earn money via transporting passengers and freight by road, rail, water and air. It is an open source remake and expansion of the 1995 Chris Sawyer video game Transport Tycoon Deluxe."
 *   **[_Cargonauts_](http://cargonauts.net/) (2015-)**
 	"Part of the _Logistical Worlds_ Project, Cargonauts envisions a logistical world of infrastructure, of transport economies, of zones and concessions, of nocturnal possibilities for sabotage and revenge."
 *   **[_Phone Story_](http://www.phonestory.org/) (2011-)**
 	"Phone Story is an educational game about the dark side of your favorite smart phone. Follow your phone's journey around the world and fight the market forces in a spiral of planned obsolescence."
+	
+> *  See also: Ned Rossiter, "Logistical worlds," _Cultural Studies Review_ 20, no. 1 (2014): 53–76.
+
+Logistical Art
+----
+*	**Gabby Miller, "[Turquoise Wake](http://www.gabby-miller.com/turquoise-wake-1/)", 2015, Oakland, Random Parts**
+
+Critical Logistics Community
+============================
 
 Syllabi and Conferences
-=======================
-*   **"[The Global Social Factory & Supply Chains](http://thepublicschool.org/node/31394),"** _The Public School_ (2012).
+----
+*	**"[Supply and Command: Encoding Logistics, Labor, and the Mediation of Making](https://supplystudies.com/supply-and-command/),"** _New York University (April 19th-20th, 2018).
+*   **"[The Global Social Factory &amp; Supply Chains](http://thepublicschool.org/node/31394),"** _The Public School_ (2012).
 *   **"Cold Logics, Cold Logistics,"** Benjamin Noys, Accelerationism and Aesthetics Seminar, _[Konstfack CuratorLab](https://www.konstfack.se/en/News/Calendar/2016/Higher-seminar-with-theorist-and-critic-Benjamin-Noys/)_ (2016).
 *   **"[Turbulent Circulation / Toward a Critical Logistics](https://turbulentcirculation.wordpress.com/),"** University of Toronto (October 9-11, 2015).
 *   **"[The Arts of Logistics](http://www.artsoflogistics.com/),"** Aylwyn Mae Walsh and Michael Shane Boyle (organizers), Queen Mary University of London (June 3-4, 2016).
 *   **"Unpacking Organization. Cybernetics, Logistics, and the Labour of Circulation,"**  Cent­re for Di­gi­tal Cul­tu­res (CDC), af­fi­lia­ted to Leu­pha­na Uni­ver­si­ty of Lüne­burg (June 19, 2016)
 *   **"Logistics of soft control: SAP, labour, organization,"** Leuphana University, Lüneburg (June 20-21, 2013).
 
-
-
 Projects and Groups
-===================
-*  **[Empire Logistics](http://www.empirelogistics.org/)**
-	"Empire Logistics is an interactive mapping project begun in 2009. As a collaborative initiative, Empire Logistics maps the global supply chain through research that articulates the infrastructure and 'externalized costs'—human, economic, social and environmental—of the international flow of things."
+----
 *   **[Logistical Worlds: Infrastructure, Software, Labour](http://logisticalworlds.org/)**
 	"How to study China-led globalisation through infrastructural interventions? This question prompts the investigation of logistical operations that fabricate the emerging trade network known as the New Silk Road. Moving between software studies and geocultural analysis of labour regimes, the project tracks algorithmic arrangements of power across the tricontinental sites of Piraeus, Valparaíso and Kolkata... Subjectivity and labour expose the power and vulnerability of logistical worlds."
+*  **[Empire Logistics](http://www.empirelogistics.org/)**
+	"Empire Logistics is an interactive mapping project begun in 2009. As a collaborative initiative, Empire Logistics maps the global supply chain through research that articulates the infrastructure and 'externalized costs'—human, economic, social and environmental—of the international flow of things."
 *   **[Center for Land Use Interpretation](http://clui.org/)**
 	"The Center for Land Use Interpretation is a research and education organization interested in understanding the nature and extent of human interaction with the surface of the earth, and in finding new meanings in the intentional and incidental forms that we individually and collectively create. We believe that the manmade landscape is a cultural inscription, that can be read to better understand who we are, and what we are doing."
 *   **[Transit-labour](http://transitlabour.asia/home/)** (X)
@@ -372,13 +414,13 @@ Projects and Groups
 	"Warehouse Workers for Justice is a worker center founded in 2009 to win stable, living wage jobs with dignity for the hundreds of thousands of workers in Illinois' logistics and distribution industry. We provide workshops so warehouse workers can educate themselves about workplace rights, unite warehouse workers to defend their rights on the job, build community support for the struggles of warehouse workers and fight for policy changes to improve the lives of warehouse workers and members of our communities."
 
 Broader Advocacy
-=========================
+----
 *   **[Global Witness](https://www.globalwitness.org/en/)**
 	"Many of the world’s worst environmental and human rights abuses are driven by the exploitation of natural resources and corruption in the global political and economic system. Global Witness is campaigning to end this by carrying out hard-hitting investigations, exposing these abuses, and campaigning for change. They are independent, not-for-profit, and work with partners around the world in the fight for justice."
 *   **[The Enough Project](http://www.enoughproject.org/)**
 	"The Enough Project seeks to build leverage for peace and justice in Africa by helping to create real consequences for the perpetrators and facilitators of genocide and other mass atrocities. Enough aims to counter rights-abusing armed groups and violent kleptocratic regimes that are fueled by grand corruption, transnational crime and terror, and the pillaging and trafficking of minerals, ivory, diamonds, and other natural resources. Enough conducts field research in conflict zones, develops and advocates for policy recommendations, supports social movements in affected countries, and mobilizes public campaigns."
 
 Other Materials and Cases
-=========================
+----
 > *  R. Buckminster Fuller, "The World Game: Integrative Resource Utilization Planning Tool," _World Resource Inventory_ (Carbondale: Southern Illinois University, 1971). 
 > *  Peter Stallybrass, "Marx's Coat" in Patria Spyer (ed) _Border Fetishisms: Material Objects in Unstable Spaces_ (London: Routledge, 1997). 
