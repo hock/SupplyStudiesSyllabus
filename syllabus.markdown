@@ -37,7 +37,7 @@ Supply Chains in the (Post) Pandemic
 ----
 >*	Kim Moody, "[The Supply Chain Disruption Arrives 'Just in Time'](https://labornotes.org/2021/12/supply-chain-disruption-arrives-just-time)," _Labor Notes_ (December 6, 2021) and “[How ‘Just-in-Time’ Capitalism Spread Covid-19] (https://spectrejournal.com/how-just-in-time-capitalism-spread-covid-19/),” _Spectre Journal_ (April 16, 2020).
 >*	Ingrid Burrington, “[After Supply Chain Capitalism: We Need A Social Net That Protects All People] (https://points.datasociety.net/after-supply-chain-capitalism-bca0d5ce2ae1),” _Data & Society: Points_ (April 1, 2020).
-
+>*	Sarah T. Roberts, "[Over*Flow: Digital Humanity: Social Media Content Moderation and the Global Tech Workforce in the Covid-19 Era](https://www.flowjournal.org/2020/03/digital-humanity/)," _Flow Journal_ (March 2020).
 
 <a name="logisticalmedia">Logistical Media</a>
 ================
@@ -258,6 +258,8 @@ Supply chains are not new, Anna Tsing reminds us, they extend as far as trade it
 *	Niccolò Cuppini, Irene Peano, Evelina Gambino, Maurilio Pirone, Carlotta Benvegnú, Mattia Frapporti, “[Gendering Logistics: Feminist Approaches for the Analysis of Supply Chain Capitalism] (http://www.intotheblackbox.com/english/gendering-logistics-2/),”_Into the Black Box_ (November 18, 2021).
 *	Benjamin Bratton, [_The Revenge of the Real: Politics for a Post-Pandemic World_](https://www.versobooks.com/books/3787-the-revenge-of-the-real) (New York: Verso, 2021).
 *	Jussi Parikka, “[A Natural History of Logistics] (https://jussiparikka.net/2020/07/04/a-natural-history-of-logistics/),” _Strelka: The Terraforming_ (July 1, 2020).
+*	Geoffrey Aung, "[A 'becoming logistical' of anthropology?](https://www.berghahnjournals.com/view/journals/focaal/2021/91/fcl910109.xml)," _Focaal_ no. 91 (2021).
+*	Benjamin McKean, "[What Supply Chains Teach Us About Neoliberalism](https://lpeproject.org/blog/what-supply-chains-can-teach-us-about-neoliberalism/)," _LPE Project_ (2021).
 
 Black Studies
 ----
@@ -293,6 +295,7 @@ As a site of resistance against global capital, the supply chain shares none of 
 *	Sonja Mönkedieck, "[The iPhone 4CF (Conflict Free): The Yes Men Address the Conflict in the Democratic Republic of the Congo](http://liminalities.net/7-4/yesmen.pdf)," _Liminalities_ 7, no. 4 (2011), 1-15.
 *	Kathryn Babineau & Jennifer Bair, “[The Art of Using Supply Chains to Defend Worker Rights], (https://www.opendemocracy.net/en/beyond-trafficking-and-slavery/art-using-supply-chains-defend-worker-rights/)” _Open Democracy_ (December 14, 2020). 
 *	Peter Cole, [_Dockworker Power: Race and Activism in Durban and the San Francisco Bay Area_](https://www.press.uillinois.edu/books/?id=p083761) (Champaign: University of Illinois Press 2018).
+*	Gabriel Grill, "[Future Protest Made Risky: Examining Social Media Based Civil Unrest Prediction Research and Products](https://link.springer.com/article/10.1007/s10606-021-09409-0)," _CSCW_ 30 (2021). 
 
 <a name="logisticalhistories">Logistical Histories</a>
 ====================
@@ -390,6 +393,8 @@ Global logistics depends on movement, on scale and on speed. It operationalizes 
 *	Kwame Appiah, "[The Case for Contamination](http://www.nytimes.com/2006/01/01/magazine/01cosmopolitan.html)," _New York Times Magazine_ (January 1, 2006).
 *	Lorenzo Vianelli, “[Warehousing Asylum Seekers: The Logistification of Reception] (https://journals.sagepub.com/doi/10.1177/02637758211056339?icid=int.sj-full-text.citing-articles.3)” _Environment and Planning D: Society and Space_ 40, no. 1 (2022).
 *	Rutvica Andrijasevic & Tonia Novitz, “[Supply Chains and Unfree Labor: Regulatory Failure in the Case of Samsung Electronics in Slovakia](https://www.tandfonline.com/doi/full/10.1080/23322705.2020.1691817)," _Journal of Human Trafficking_ 6, no. 2_ (2020).
+*	Rafeef Ziadah, "[Circulating Power: Humanitarian Logistics, Militarism, and the United Arab Emirates](https://onlinelibrary.wiley.com/doi/abs/10.1111/anti.12547)," _Antipode_ 51, no. 5 (November 2019).
+*	Elisa Pascucci, "[Refugee Shelter in a Logistical World: Designing Goods for Supply-Chain Humanitarianism](https://onlinelibrary.wiley.com/doi/10.1111/anti.12680)," _Antipode_ 53, no. 1 (January 2021).
 
 Deviant Circulation
 ----
@@ -548,13 +553,14 @@ Retail and Commerce
 >*	Tamara Kneese, “[Home Spun] (https://reallifemag.com/home-spun/),” _Real Life_ (August 19, 2021).
 >*	Tamara Kneese & Michael Palm, “[Brick-and-Platform: Listing Labor in the Digital Vintage Economy] (​​https://journals.sagepub.com/doi/full/10.1177/2056305120933299),” _Social Media + Society_ (July 2020).
 
-Maintenance and Repair
+Maintenance, Repair, Waste
 ----
 >*	Lara Houston, "[The Timeliness of Repair](http://continentcontinent.cc/index.php/continent/article/view/280)," Continent. Issue 6.1 (2017).
 >*	Jason Farman, "[Repair and Software: Updates, Obsolescence, and Mobile Culture’s Operating Systems](http://continentcontinent.cc/index.php/continent/article/view/275)," Continent. Issue 6.1 (2017).
 >*	Lisa Parks, "[Media Fixes: Thoughts on Repair Cultures](https://www.flowjournal.org/2013/12/media-fixes-thoughts-on-repair-cultures/)," Flow Journal (2013).
 >*	Lisa Conrad, “[The Organization is a Repair Shop] (http://www.ephemerajournal.org/contribution/organization-repair-shop),” _ephemera_ 19. no. 2 (2019).
 >*	Rowan Moore Gerety, “[Downstream: The Afterlife of American Junk]  (https://web.archive.org/web/20190509182600/https://harpers.org/archive/2019/06/downstream-haiti-american-junk/),” _Harper’s Magazine_ (May 9, 2019). 
+>*	Sarah T. Roberts, "[Digital Refuse: Canadian Garbage, Commercial Content Moderation and the Global Circulation of Social Media’s Waste](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1014&context=commpub)," _Wi: Journal of Mobile Media_ 10, no. 1 (2016).
  
  
 
